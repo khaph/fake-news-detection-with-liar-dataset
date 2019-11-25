@@ -1,0 +1,1947 @@
+11685.json	false	half-true	wisconsin
+9524.json	pants-fire	false	scott	walker
+5962.json	true	half-true	601
+7070.json	true	mostly-true	tennessee	--	31	--	half-cent	shelby
+1046.json	barely-true	half-true	joe	biden	american
+12849.json	true	false	donald	trump
+13270.json	barely-true	false	hillary	clintons	clinton
+6649.json	barely-true	false	democrats	georgia	republicans
+2508.json	barely-true	false	politifact	texas	edwards	flores
+11269.json	pants-fire	false	denali	kenyan
+11200.json	false	mostly-true	57
+4888.json	true	mostly-true	44	10	noncollege-educated
+3331.json	pants-fire	half-true
+9198.json	half-true	mostly-true	gallup	72	americans	56	democrats
+73.json	true	false	18000	america
+1328.json	false	half-true	ronald	reagan
+12169.json	mostly-true	half-true
+5244.json	half-true	false	mitt	romney	republican	marco	rubio
+12996.json	pants-fire	mostly-true	30
+8162.json	mostly-true	half-true
+1084.json	true	false	scalia	ginsburg	95-plus
+13231.json	barely-true	half-true	syria
+1051.json	true	half-true	obama	cap-and-trade
+4161.json	mostly-true	half-true
+816.json	half-true	false
+2646.json	half-true	mostly-true	tom	ganley	fs	bureau	160
+12381.json	true	mostly-true	united
+8567.json	half-true	false	thomas	jefferson	american
+9092.json	barely-true	false	300000	florida
+10055.json	mostly-true	false	massachusetts	scott	--	--
+4513.json	true	half-true	12
+10340.json	true	half-true	texas	10	texas
+6849.json	barely-true	false	pre-existing
+10971.json	half-true	false	greg	abbott	jade	helm	15	texans	walmart
+13251.json	pants-fire	false	hillary	clinton
+7545.json	barely-true	half-true	san	francisco	single-use
+4929.json	mostly-true	false	1993	newt	gingrich
+6239.json	barely-true	half-true	250	10	10	12
+266.json	half-true	false
+6313.json	false	half-true	90000
+9550.json	barely-true	false	hobby	doesnt
+9612.json	half-true	mostly-true	charlie	crist
+13272.json	barely-true	half-true	hillary	clinton
+7562.json	mostly-true	half-true	300000	california
+3121.json	half-true	mostly-true	500000	texas	250000	500000	texas	49
+9578.json	false	mostly-true	90
+2356.json	mostly-true	half-true	providence
+1066.json	pants-fire	half-true	acorn	bureau	door-to-door	american
+2092.json	pants-fire	half-true	sixty	hispanics	arizona
+7442.json	barely-true	false
+9910.json	barely-true	false	dick	cheney	de-baathisized	iraqi	isis
+11083.json	true	false	hillary	clinton	donald	trumps
+2966.json	false	half-true	700
+13367.json	mostly-true	false	marco	rubio	medicare	haveweakened
+1087.json	mostly-true	half-true	174	130
+267.json	true	false	clinton
+4272.json	true	half-true	twenty-five	texas	mississippi	minimum-wage	united
+12542.json	half-true	false	donald	trump
+8372.json	barely-true	false
+3518.json	mostly-true	half-true	30000	13
+12698.json	false	half-true
+2357.json	false	mostly-true	neumann	nancy	pelosi
+12541.json	barely-true	false	republican	donald	trumps
+2854.json	pants-fire	mostly-true	40	portland
+2072.json	true	mostly-true	providence
+13334.json	half-true	mostly-true
+4820.json	half-true	mostly-true	americans	47	reps	56
+12309.json	barely-true	half-true	united	iran	irans
+1420.json	mostly-true	half-true	texas
+2491.json	true	false	pepper
+1075.json	barely-true	half-true	mitch	mcconnell	kentucky	kentuckys
+9762.json	true	half-true	tom	barrett	milwaukee
+5935.json	barely-true	mostly-true	80	marta
+2821.json	pants-fire	half-true	obama	sen	harry	reid	nancy	pelosi	12
+6370.json	true	mostly-true	milken	san	antonio	top-performing
+3706.json	pants-fire	mostly-true	africa
+10163.json	true	false	ii
+2796.json	false	half-true
+6083.json	barely-true	half-true	500	10
+5913.json	barely-true	false	tom	leppert	dallas
+934.json	true	half-true	republicans	cabinetis
+2162.json	barely-true	mostly-true	atlanta	george	turner	14	227
+2679.json	true	half-true	florida	iran	iran
+8929.json	true	half-true	wisconsin
+12398.json	pants-fire	mostly-true	donald	trump	--	-
+2690.json	pants-fire	half-true	taliban
+8667.json	true	false	iran	hassan	rouhani	phds	american	barack	obamas
+8941.json	true	false	ted	nugent	barack	obama	nazis	jewish
+6821.json	pants-fire	half-true	barack	obama	long-term	doesnt
+11400.json	mostly-true	half-true	sen	ron	johnson	225000
+3228.json	true	false	orrin	hatch	co-sponsored	1993
+9746.json	half-true	mostly-true	student-athletes	student-athletes
+12456.json	barely-true	half-true	hillary	clinton	1980s
+4856.json	half-true	false	mitt	romney	flip-flopped
+4698.json	false	half-true	stephen	sweeney
+2585.json	barely-true	false	delaware	chris	coons	911
+6604.json	barely-true	half-true	tim	kaine
+4495.json	pants-fire	half-true	obama
+8406.json	barely-true	false	neville	chamberlain	british	nazis	europe
+10147.json	false	mostly-true
+10623.json	mostly-true	half-true	wisconsin	midwest
+2277.json	half-true	false
+8146.json	mostly-true	half-true	barack	obama	92	367	george	bush
+13056.json	true	half-true	tom	suozzi	nassau
+1103.json	pants-fire	false	john	holdren
+4444.json	mostly-true	half-true	mitt	romney	canada	seamus
+9269.json	false	half-true
+4105.json	pants-fire	half-true	sen	sheila	harsdorf	medicare
+8533.json	barely-true	false	travelling
+13125.json	barely-true	false	chinese
+8294.json	mostly-true	false	florida	75000	23000
+9908.json	mostly-true	false	nfl	roger	goodell	janay	ray	no-no
+4309.json	false	half-true	virginia	bob	mcdonnell
+110.json	false	half-true	iraq	saddam	hussein
+7677.json	mostly-true	half-true	sex-offender
+4780.json	true	half-true	ronald	reagan	18
+715.json	false	half-true	man-made
+3107.json	true	half-true	2000
+7565.json	mostly-true	half-true	bush	obama
+10948.json	false	half-true	hillary	clinton
+12210.json	false	half-true	charlottes	anti-discrimination
+4119.json	mostly-true	half-true	eighty	american
+7272.json	barely-true	half-true
+12236.json	half-true	mostly-true
+4016.json	false	half-true	milwaukee
+6765.json	true	mostly-true	texas	democrat
+11777.json	true	half-true	50
+9051.json	pants-fire	false	barack	obama	america
+4243.json	mostly-true	false	united
+10871.json	half-true	mostly-true	austin	texas
+4710.json	half-true	mostly-true	clackamas	oregon
+9507.json	pants-fire	half-true	nasa	1998
+8434.json	barely-true	half-true	herring
+7744.json	mostly-true	half-true	english
+2897.json	barely-true	false	grounds	milwaukee	scott	walker
+6060.json	barely-true	half-true	11	medicare	medicaid
+5461.json	true	half-true	sixteen	ronald	reagans
+6684.json	pants-fire	mostly-true	united
+450.json	barely-true	false	barack	obamas	1700
+769.json	true	mostly-true	barack	obama	96
+502.json	true	false	john	mccain
+11711.json	true	mostly-true	american	russian	vladimir	putin	80
+5470.json	true	mostly-true	pasco
+10250.json	false	half-true	virginia	sen	warner	8-10	democrat	--	kaine	mcauliffe
+10757.json	false	half-true	capandtradewould
+8320.json	mostly-true	half-true	florida
+5472.json	false	half-true	mitt	romney	massachusetts
+5505.json	true	half-true	barack	obama	didnt
+11464.json	barely-true	mostly-true	denmarks	united
+11778.json	barely-true	half-true	korea
+12961.json	false	mostly-true	clinton	80	20
+10269.json	barely-true	false	iroquois	tribes
+2833.json	half-true	mostly-true	153	california	texas
+13400.json	barely-true	half-true	chris	koster	silentas	12000
+1251.json	true	half-true	2001
+6112.json	mostly-true	half-true	lgbt	americans
+2652.json	pants-fire	false	rick	perry	texas
+184.json	false	half-true
+11764.json	pants-fire	mostly-true	wisconsin	41st
+7876.json	pants-fire	false	76
+12950.json	barely-true	false	iran	tammy	duckworth	iran
+11185.json	barely-true	mostly-true	obamacare	50
+2412.json	false	half-true	loranne	ausley
+3215.json	pants-fire	half-true	assembly	democrats	wisconsins	bass	bay
+948.json	true	false
+11766.json	half-true	false
+592.json	barely-true	false	barack	obama	united
+5732.json	barely-true	half-true	barack	obama
+12745.json	half-true	mostly-true	latinos	obamatook
+5017.json	barely-true	half-true
+12331.json	barely-true	half-true	california	wagenow	florida
+10424.json	mostly-true	half-true	america
+9091.json	false	mostly-true	1964	73	lyndon	johnsons
+2547.json	true	half-true
+12571.json	mostly-true	half-true
+10935.json	mostly-true	half-true	tv	24000	168	georgia
+1025.json	false	half-true	acorn	85
+6386.json	barely-true	half-true	jon	runyan
+2392.json	barely-true	half-true	10	obama
+4708.json	true	half-true	americans	55
+8676.json	barely-true	false	rick	scott
+8809.json	true	mostly-true	georgia	6000	10
+4095.json	mostly-true	half-true	--
+13102.json	half-true	false	clinton	russias
+12167.json	barely-true	half-true
+2876.json	mostly-true	half-true	ohio	46th
+4769.json	half-true	false	wisconsin
+1760.json	barely-true	half-true	2003	texas	10	18	800
+6513.json	false	half-true	obama	pakistani	laden
+7780.json	barely-true	half-true	americans	mike	mullen	tom	pickering	benghazi
+7418.json	mostly-true	half-true	11	-
+2777.json	mostly-true	half-true	georgia
+8853.json	false	half-true	barack	obama	make-work
+7758.json	mostly-true	false	hispanics
+11796.json	half-true	false	ted	cruz	bull-dozing	housei
+11573.json	half-true	mostly-true
+9521.json	half-true	mostly-true	95	us-mexico
+10208.json	barely-true	half-true	barack	obama	keystone	xl
+11805.json	true	half-true	john	kennedy	1963	americans	american
+805.json	mostly-true	half-true	obama	american
+8030.json	barely-true	half-true	513	trayvon	11106	african-americans	african-americans
+7678.json	false	mostly-true	portland	cdcs	portland	15th
+139.json	mostly-true	half-true
+7271.json	true	half-true	10000	30000
+3726.json	mostly-true	half-true	two-thirds	wisconsin
+7461.json	barely-true	half-true
+5363.json	false	half-true	obamacare	america
+9942.json	true	half-true	most-viewed	weresunday	thursday	monday
+3575.json	true	false
+2205.json	true	half-true	106000
+7552.json	mostly-true	half-true	georgia
+7135.json	pants-fire	false	obamacare	16000	irs
+384.json	true	mostly-true	john	mccain	iraq
+13007.json	true	mostly-true	2015	75	30
+12994.json	mostly-true	false	clinton	clinton
+6141.json	pants-fire	false
+9891.json	half-true	false	saturday	lorne	michaels
+1971.json	false	half-true	att
+7008.json	mostly-true	half-true	6400	ohioans	september
+8963.json	pants-fire	false	mitch	mcconnell	harry	reid
+8151.json	false	mostly-true	15	americans	50000
+6236.json	barely-true	half-true	united	15	saudi	arabia
+6879.json	barely-true	false	sherrod	350
+11639.json	mostly-true	false
+9343.json	barely-true	false	putin	obama	poland	czech
+422.json	half-true	mostly-true	ohio	massachusetts	california
+10516.json	mostly-true	false	austin	texas
+4750.json	false	half-true	epa	230000	21
+729.json	half-true	false	aig
+12702.json	pants-fire	false	cleveland
+8901.json	true	half-true	keystone	35
+11546.json	half-true	mostly-true	england
+1353.json	barely-true	false	afghanistan	russians
+12158.json	barely-true	half-true	florida	hivaids
+656.json	mostly-true	false	44
+10085.json	false	mostly-true	mount	rushmore
+5753.json	true	mostly-true	rhode	53
+125.json	mostly-true	false	mitt	romney
+6010.json	half-true	mostly-true	250
+727.json	mostly-true	false	barack	obama	fannie	mae	freddie	mac	congress
+42.json	barely-true	half-true	--	--	york	-
+6262.json	pants-fire	half-true	chinese	sean	duffys	republican
+9502.json	mostly-true	half-true	united
+11351.json	mostly-true	half-true	54
+8558.json	false	half-true	rhode
+12084.json	true	false	youtube	thomas	dimassimo	trump	ohio	american
+568.json	true	false	obama	sen	dick	lugar	republican
+9708.json	pants-fire	half-true	united	pakistan	afghanistan	syria
+4537.json	mostly-true	half-true	june	2009	40	america
+8549.json	barely-true	mostly-true	onion	creeks	120000	niagara
+8062.json	half-true	mostly-true	13	50	85	100
+3158.json	mostly-true	half-true	2011-12
+12461.json	true	half-true	sayvideo	florida
+8609.json	half-true	false
+63.json	mostly-true	half-true	16	latin	america	iraq	500
+6560.json	true	half-true
+11910.json	pants-fire	false	joseph	stalin	america
+4101.json	mostly-true	half-true	russians	50	americans
+10175.json	mostly-true	false	republicans
+4593.json	false	half-true	bryce	reeves	york	virginia
+1881.json	barely-true	half-true	obama
+204.json	false	mostly-true	sox	87
+10091.json	true	false
+1409.json	false	half-true
+2769.json	true	mostly-true	georgia	second-highest	united
+2600.json	mostly-true	false	tom	ganley	400	tom	ganleys
+5536.json	half-true	false
+2911.json	false	half-true
+12787.json	half-true	false	american	complaining-	pathetic
+2442.json	pants-fire	half-true	earl	blumenauer	gps
+3489.json	barely-true	false	wisconsin	david	prosser	30-year	cover-up
+9109.json	barely-true	false	obamacare
+2983.json	true	mostly-true	10
+13467.json	pants-fire	false	clinton
+9141.json	barely-true	false	hardshipand
+12648.json	barely-true	half-true	nevadans	uber	70000	catherine	cortez	masto	uber
+3674.json	pants-fire	half-true	300000	pedernales
+6577.json	half-true	mostly-true	44	50
+1892.json	true	false
+31.json	true	half-true	tommy	thompson	milwaukee
+664.json	false	mostly-true	mccain
+1199.json	true	false	baucus	government-chartered
+11865.json	barely-true	half-true	gene	nras	democrat	congress	nra
+87.json	true	false	obama	150000
+9312.json	mostly-true	half-true	cbo	1010
+3021.json	true	half-true
+379.json	true	false	obama	europe
+5272.json	half-true	mostly-true	1913
+683.json	true	half-true	sarah	palin	barack	obama	joe	biden
+1781.json	true	mostly-true	texas	minimum-wage
+771.json	barely-true	false	john	mccains
+11923.json	half-true	mostly-true	12
+10749.json	barely-true	mostly-true	29	snap
+7834.json	true	false
+10881.json	mostly-true	half-true	scott	110	--	--	follow-up
+4396.json	mostly-true	half-true
+6206.json	true	false	margin-of-error	july	mitt	romney
+9970.json	true	mostly-true	10	georgias	6500
+4353.json	true	false	sox
+1394.json	false	half-true	rick	perrys	899	bermuda
+7695.json	true	false
+4770.json	barely-true	half-true	barack	obama	nancy	pelosi	harry	reid	rick	perrys	in-state
+1052.json	true	false	obama	romanovs
+3700.json	false	half-true
+8683.json	true	mostly-true	medicare	medicare
+12798.json	barely-true	half-true	donald	trump	mike	pence
+7680.json	mostly-true	half-true
+1999.json	true	mostly-true	panhandle
+12873.json	pants-fire	mostly-true	2012	st	lucie	palm	141
+9683.json	pants-fire	false	im
+6660.json	mostly-true	false	romney	russia
+2626.json	false	half-true	christopher
+2746.json	barely-true	half-true	nick	kahl
+12448.json	barely-true	half-true	california
+3232.json	true	false
+487.json	barely-true	mostly-true
+8701.json	false	half-true	scott	walker	marquette
+10606.json	barely-true	half-true	florida	african	american	hispanic
+2371.json	barely-true	half-true	georgia	world-renowned
+12065.json	true	false	doesnt
+2362.json	mostly-true	half-true	republicans	-	mr	boehner	-
+2868.json	false	half-true	wisconsins	15
+13305.json	true	false
+8503.json	true	false	republican	2010	democrats	congress	1994	gingrich	democrats
+636.json	true	half-true	sen	mccain	iraq	911	iraq
+5758.json	barely-true	false	milwaukee	tom	barrett	scott
+2793.json	mostly-true	half-true	texas
+9426.json	true	half-true	brazil	300	amazon	cup
+5898.json	barely-true	false	connie	mack	california	palm	springs
+11218.json	mostly-true	half-true	40000
+12703.json	mostly-true	half-true	sudan
+5462.json	false	half-true	ohio	marcy	kaptur	washington	dc
+1955.json	pants-fire	false	jim	langevin	didnt
+1648.json	mostly-true	half-true	heritage
+5371.json	false	half-true	mitt	romney
+4425.json	barely-true	half-true	45000
+4131.json	true	half-true	275000
+2341.json	mostly-true	false	madison	milwaukee
+757.json	half-true	false	john	mccain	fannie	freddiebut	democrats
+11519.json	true	half-true	2016	10	2012	308
+5785.json	pants-fire	false	texas
+2284.json	pants-fire	false	lincoln
+12650.json	barely-true	half-true	saddam	hussein
+9480.json	barely-true	mostly-true	35
+643.json	half-true	mostly-true	mccain	george	bushs	95
+11242.json	true	half-true	americans	united	1968	american
+7038.json	true	half-true	ohio
+6772.json	pants-fire	half-true
+13134.json	half-true	false	donald	trump	putin	americans
+11327.json	mostly-true	half-true	three-hour
+3818.json	mostly-true	half-true	obama-nelson	post-recession
+11562.json	pants-fire	false	trans-pacific
+9622.json	true	mostly-true
+9995.json	mostly-true	half-true	41000	financial-based
+7344.json	barely-true	half-true
+5840.json	false	half-true	finland
+1576.json	true	mostly-true
+13127.json	mostly-true	half-true	donald	trump
+12098.json	mostly-true	half-true	donaldtrump	18
+5993.json	pants-fire	half-true	larry	taylor	in-state
+7165.json	half-true	mostly-true	georgia
+11025.json	false	half-true	medicaid
+2719.json	barely-true	half-true	850000	texas	public-sector	minimum-wage
+3631.json	barely-true	half-true	august
+7211.json	false	mostly-true	americans
+1480.json	barely-true	mostly-true	franklin	roosevelt	12	gdp	barack	obama	228
+1512.json	half-true	false	fifty-seven	rubios	100
+10517.json	half-true	mostly-true	ninety-six	8400	26
+5723.json	pants-fire	false	78	81	democrats
+7378.json	half-true	false	barack	obamas
+474.json	barely-true	false	clinton
+126.json	mostly-true	false
+10646.json	pants-fire	half-true	creflo	65	gulfstream	g650	--	god	--
+1823.json	true	half-true	halliburton	dick	cheney	34
+9731.json	barely-true	mostly-true	aboard	florida	100
+9594.json	pants-fire	false	fox	canada	violatesa	thatprevents
+12026.json	half-true	false
+5971.json	false	half-true	barack	obama	united
+6857.json	false	half-true	obama	90	solyndra	fisker	tesla	ener1
+11832.json	pants-fire	half-true
+2337.json	half-true	false	jennifer	carrolls
+10853.json	false	half-true
+9050.json	mostly-true	half-true	barack	obamas
+9427.json	mostly-true	half-true	milwaukee
+6532.json	mostly-true	half-true	ryan	romney
+3648.json	false	half-true	miami-dade
+4994.json	half-true	false	freddie	mac
+526.json	barely-true	false	sen	obama
+8673.json	true	false
+9273.json	pants-fire	half-true	jules	bailey	wal-mart	11	oregon	33
+3.json	mostly-true	half-true	mexico	46th	29th
+9197.json	false	half-true	democrats	republicans
+2087.json	true	false	afghanistan	americans
+1329.json	barely-true	false	stupak
+1574.json	mostly-true	half-true	39
+6745.json	mostly-true	false	barack	obamas
+4289.json	half-true	mostly-true	2000	portland	year-long	87
+4383.json	false	half-true	oregon	catch-up	1981	--
+5170.json	true	half-true	middle-class
+6976.json	true	mostly-true	17
+7838.json	pants-fire	false	dhimmitude	107	muslims
+2643.json	false	half-true
+10097.json	pants-fire	half-true	elorza	non-existence	god
+13236.json	barely-true	false	donald	trump	nato	nato
+12833.json	false	half-true	congress
+1894.json	half-true	mostly-true	ninety	arkansas	clinton
+7881.json	mostly-true	half-true
+5603.json	true	half-true	20
+5759.json	false	mostly-true	10
+6207.json	half-true	mostly-true	12
+2445.json	false	half-true	iran
+2596.json	half-true	mostly-true	chris	dudley	oregons
+10399.json	false	mostly-true
+792.json	half-true	false	democrats	congress	fannie	freddie
+12929.json	true	half-true	california	texas
+12791.json	barely-true	false	mike	pence	mike	coffman	coffman	pence	lgbt	americans
+9003.json	barely-true	mostly-true	floridas	four-year	10000
+11229.json	true	mostly-true	gdp	virginia	alaska	mississippi
+352.json	mostly-true	false	ive
+5278.json	half-true	mostly-true	volt	50000	250000
+2165.json	half-true	false	cobb	aclu	sam	olens	aclu
+7448.json	true	mostly-true	atlanta	1969
+12987.json	true	false	republican	2016
+5132.json	half-true	false	republicans	barack	obama	georgias	2012
+13329.json	barely-true	half-true	hillary	clinton
+4588.json	true	mostly-true	republican	ronald	reagan
+6455.json	mostly-true	half-true	2008	georgia
+10282.json	pants-fire	false	nazis
+211.json	true	half-true	iraq	iraq
+7676.json	barely-true	half-true
+1873.json	false	half-true	hoover	truman	eisenhower	15
+3841.json	half-true	mostly-true	medicare	50
+12284.json	mostly-true	false	2014	80	percentofpoor
+7197.json	mostly-true	half-true	nike	nike
+12858.json	half-true	false	trans-pacific	vietnam	vietnam
+6041.json	half-true	true	22	80	2010	20	20	2010
+3414.json	false	mostly-true
+1679.json	half-true	false	bush
+275.json	barely-true	half-true	30
+13208.json	mostly-true	false
+5911.json	half-true	false
+2601.json	false	half-true	republicans	democrats
+5653.json	pants-fire	false	barack	obama
+13046.json	barely-true	half-true	californias	55
+3103.json	true	half-true	george	allen	16400
+2894.json	pants-fire	false	wilmington	ohio	hasnt
+9112.json	false	half-true	22	20
+2945.json	mostly-true	half-true	sixteen
+9944.json	true	false
+6839.json	barely-true	false	tommy	thompson
+3673.json	barely-true	half-true	republicans	wisconsin	democrats
+13058.json	true	half-true	donald	trumpsfoundation	six-foot-tall
+3941.json	half-true	false	democrat-led	750	democrats
+10917.json	false	half-true
+13155.json	false	half-true	ron	johnson
+9301.json	pants-fire	false	florida	democrats	sharia
+5486.json	half-true	false	beto	orourke
+10943.json	true	half-true	ninety-seven	americans
+12728.json	false	half-true
+2720.json	pants-fire	half-true	monk	elmer
+582.json	true	half-true
+12052.json	true	mostly-true
+1333.json	true	half-true	obama
+2603.json	false	half-true	texas	gas-pump	hebs	brookshires	texas
+2731.json	mostly-true	half-true	carolina	25
+788.json	mostly-true	false	sen	obamas	bushs
+1691.json	half-true	false	rpg
+605.json	false	half-true	obama	94
+6195.json	false	mostly-true	lorain	ohio
+1350.json	true	false
+7706.json	half-true	mostly-true	narragansett	bay	--	fahrenheit	1960s
+12037.json	half-true	false	barack	obama
+4391.json	barely-true	mostly-true	barack	obamas	israel
+9692.json	barely-true	false	carlos	curbelo	obamacare
+13405.json	half-true	mostly-true	american
+230.json	true	false	george	bush	fema
+207.json	true	false	2-billion	boeing
+3608.json	false	half-true	austin
+3789.json	barely-true	mostly-true
+7775.json	half-true	mostly-true	10	americans	30	--	30	30	--	full-time
+12160.json	barely-true	half-true	emory	trump	2016
+12870.json	barely-true	half-true	clinton	clintons	100
+3366.json	true	half-true
+10806.json	true	half-true	tiverton
+9681.json	pants-fire	half-true	aids
+1015.json	barely-true	false	democrats	congress	january	2007
+13486.json	half-true	false	alexander	hamilton
+8798.json	false	mostly-true
+2514.json	false	half-true	motors
+10633.json	false	half-true	obama	hamas	iran
+10883.json	false	mostly-true
+13213.json	half-true	false	loretta	sanchez	20	congress
+5698.json	half-true	mostly-true	republican	10	1000
+11701.json	false	half-true	reliability	texas	ercot	obama	texas	16
+11307.json	barely-true	half-true	jebs	florida
+11925.json	true	half-true	1000
+4259.json	true	false	jersey
+5061.json	pants-fire	mostly-true	newark	september	23
+4141.json	half-true	false	libyan	june	15	2011
+9462.json	mostly-true	half-true	rick	scott	75
+3987.json	mostly-true	false	vern	buchanan	60000	buchanan
+293.json	pants-fire	false	mccain	hanoi	hilton
+2117.json	half-true	false	mexico	diane	denish	christmas
+4825.json	half-true	false	republicans
+9516.json	barely-true	false	wendy	davis	fbi
+3231.json	half-true	mostly-true	united
+386.json	mostly-true	half-true	obama
+11288.json	half-true	false	donald	trump	obamacare	single-payer
+1106.json	true	false
+446.json	barely-true	half-true	obama
+10271.json	mostly-true	false	atlanta	kasim	reed
+8419.json	false	half-true	obamacare
+12093.json	barely-true	false	1875
+317.json	true	half-true	1990s	22-million	8-million
+6295.json	pants-fire	half-true
+5597.json	true	mostly-true	jersey	30000
+4995.json	true	false	ive
+9095.json	pants-fire	half-true	marco	rubio	9000	rand	paul	10000	god
+10451.json	half-true	false
+255.json	mostly-true	half-true	york	clinton	50	american
+3664.json	false	half-true	250
+11262.json	false	half-true
+9388.json	barely-true	half-true
+12596.json	barely-true	half-true	carolinas	teachersalary
+8689.json	half-true	false	hastert
+13420.json	true	false	donald	trump
+11911.json	barely-true	false	80	lame-duck
+5450.json	half-true	false	rick	santorum	right-to-work
+2993.json	mostly-true	half-true	1981	matagorda	brazoria	galveston	well-funded
+3740.json	half-true	mostly-true	virginia	50	10
+12720.json	half-true	false	clinton	assad	assad
+2552.json	mostly-true	half-true	rand	paul	2000	medicare
+9353.json	mostly-true	false	hillary	clinton	1993
+9864.json	mostly-true	half-true	scott	walker	america
+8243.json	true	false	cpa	texas
+13500.json	mostly-true	half-true	donald	trumps
+7737.json	barely-true	false	100
+12293.json	barely-true	false	donald	trump
+1653.json	half-true	false	fourth-most
+3731.json	true	false	20000	2004
+5779.json	half-true	mostly-true	georgias	america
+10567.json	false	mostly-true	94	parenthood
+10111.json	false	mostly-true	charlie	crist	30	11
+11256.json	mostly-true	false	bernie	sanders	opposesthe	trans-pacific	hillary	clinton	supportsit
+7904.json	barely-true	half-true	92
+4709.json	barely-true	half-true	democrats	500	medicare	15	americans
+4116.json	false	half-true	potus	278000
+9435.json	mostly-true	half-true	afghanistan
+9801.json	true	half-true	rhode	1000
+11370.json	mostly-true	half-true	alabamas	crimson	saturdays	georgia	bulldogs	72	alabama
+3676.json	mostly-true	false	florida	islamic
+7742.json	false	half-true
+817.json	pants-fire	false	barack	obama
+13051.json	barely-true	half-true	germans	french	iraq	saddam	hussein
+11345.json	half-true	false	donald	trump	tammy	baldwin	carried-interest
+7387.json	barely-true	half-true
+4400.json	half-true	false	jon	huntsman	medicare	980000	hampshire
+3541.json	half-true	mostly-true	united	25	african	americans	id
+12187.json	half-true	false	rick	scott
+7340.json	true	false	americans	ronald	reagan
+10355.json	true	mostly-true	42	georgians	60
+10467.json	half-true	mostly-true	texas	1968
+12526.json	mostly-true	false	thc
+10898.json	barely-true	false	texas	obamacare
+7136.json	barely-true	mostly-true	70	k-12
+6325.json	half-true	mostly-true	40
+12855.json	true	half-true	illinois	1652	2014	40	illinois	2007	2012	state-funded
+10512.json	false	mostly-true	235	31
+11726.json	barely-true	mostly-true	25
+6774.json	mostly-true	false	nelson	sonia	sotomayor	americans
+1324.json	barely-true	false	stupak	doesnt
+6813.json	barely-true	half-true	barack	obama	obamacare	middle-income
+9737.json	false	half-true	africa
+6366.json	barely-true	false	medicare	500	medicare	15	medicare
+9316.json	mostly-true	half-true	congress	200
+992.json	mostly-true	half-true	venezuela	1600th	united
+699.json	half-true	false	obama
+9033.json	true	mostly-true	4000
+5950.json	true	half-true	asset	tarp
+10041.json	half-true	false	leticia	putte	american	in-state
+5528.json	true	false	pacs	republican	texas
+8414.json	false	half-true	mr	fosters	st	petersburg
+4189.json	false	half-true	ron	278000
+9333.json	half-true	false	koran	christians	jews
+9052.json	mostly-true	half-true	dan	patrick
+1405.json	barely-true	half-true	chile	17th
+3235.json	false	half-true
+1514.json	barely-true	half-true	mccollum
+6919.json	barely-true	half-true	virginia	tim	kaine	george	allen
+9774.json	false	half-true	charliecrist	duke
+5640.json	barely-true	false	barack	obama	san	angelo
+9444.json	barely-true	half-true	wisconsin	10
+4432.json	mostly-true	half-true	kasich	republican-dominated
+8192.json	barely-true	mostly-true	miami-dade
+7886.json	mostly-true	false	republican	washington	clifford	republican
+9431.json	barely-true	false	judging	debbie	wasserman	schultz	to
+2616.json	pants-fire	half-true
+2122.json	half-true	mostly-true	jane	norton	colorado
+1280.json	barely-true	mostly-true	florida	ive	10
+2477.json	false	half-true	16	6000
+6123.json	false	half-true	barack	obama	1700	170000
+7814.json	mostly-true	half-true	jerseys	16	21
+901.json	false	mostly-true	motors	75
+6720.json	false	half-true	paul	ryan	24
+4628.json	mostly-true	half-true	1970	health-threatening	60	200
+2986.json	true	false	milwaukee	--	talgo	--	milwaukee-madison
+10783.json	mostly-true	half-true	73
+13350.json	half-true	false	donald	trump
+258.json	true	half-true	sen	mccain	bush
+1248.json	mostly-true	half-true	reagan
+10450.json	half-true	mostly-true	25	20	30
+4442.json	half-true	false	170000	texas	rick	perry
+7930.json	true	mostly-true	97
+12122.json	mostly-true	false	cuban
+6678.json	true	half-true
+9957.json	pants-fire	half-true	congress	36	84	71	creditand
+7111.json	barely-true	half-true	portland	single-use
+9235.json	pants-fire	false	bundy	nevada	sen	harry	reid	re-sell	chinese
+1243.json	false	half-true
+2305.json	true	false	ice-maker
+2040.json	barely-true	half-true	obama	congress
+9192.json	true	half-true	charlie	crist	jeb	bushs
+11375.json	true	half-true	650	texas
+3369.json	half-true	mostly-true	portland	one-time	22
+8855.json	mostly-true	half-true
+1641.json	false	half-true	england	journal	obama	obamacare	30	american
+9080.json	true	half-true
+4233.json	mostly-true	half-true	michigan
+12952.json	barely-true	half-true	obama	iran	400
+2135.json	false	half-true	curt	schillings
+7696.json	barely-true	half-true
+2187.json	false	mostly-true	canada	36
+2774.json	half-true	false
+6555.json	true	false	republicans	in-person	2005
+8011.json	true	false	austin	america
+1290.json	barely-true	false	congress	nobel	prize
+9151.json	true	half-true
+7426.json	pants-fire	mostly-true	thanshotguns	ak-47s
+1462.json	mostly-true	false	rick	perry
+1777.json	true	mostly-true	ms	kagan	harvard	hyde	dc	beltway
+12982.json	half-true	false
+12520.json	true	false	lower-cost	hivaids	clinton
+8944.json	mostly-true	half-true	chris	christie	sandy	belleville	nj
+10309.json	mostly-true	false	seasons	turkey
+7336.json	barely-true	mostly-true	50	united
+12768.json	mostly-true	half-true	doesnt
+5710.json	false	mostly-true	motors
+4198.json	pants-fire	half-true	ohio	josh	mandel	united
+4901.json	barely-true	false	mitt	romney	middle-class	band-aids
+7806.json	false	half-true	milwaukee	two-thirds
+12537.json	false	half-true	muslims	united
+3593.json	mostly-true	half-true	hackers	virginias	prescription-drug	82	36
+9779.json	pants-fire	false	ted	cruz	kochs	americas
+8990.json	mostly-true	false	russian
+10897.json	true	mostly-true	of
+4841.json	mostly-true	false	94000	oregon
+12301.json	mostly-true	false	strom	thurmond	puerto	ricos
+13512.json	pants-fire	half-true	latina	donald	trump	las	vegas	october	2015
+166.json	half-true	false	john	mccain	line-item
+7827.json	barely-true	mostly-true
+11670.json	barely-true	half-true	congress	60	800
+13029.json	barely-true	false	patrick	murphy	cpa
+9937.json	mostly-true	half-true	2012	scott	--	53
+2811.json	mostly-true	half-true	65
+6333.json	false	half-true	jerseyans	9900	90000
+5124.json	pants-fire	half-true	newt	gingrich	co-sponsored	nancy	pelosi	60	chinas	one-child
+66.json	true	mostly-true	lenderand	300	400	500
+5403.json	mostly-true	false
+9437.json	half-true	false	wisconsin	john	doe
+235.json	true	half-true	ii	japanese	american	pows
+11080.json	barely-true	mostly-true	texas	27th	2002	2013
+1444.json	mostly-true	half-true	obama	13
+2484.json	half-true	false	daniel	webster
+5836.json	half-true	false	amanda	fritz	naral	pro-choice	oregon
+6264.json	barely-true	false	to
+13324.json	mostly-true	half-true	ford	small-car	mexico
+5230.json	true	mostly-true	georgia	re-convicted
+8519.json	false	half-true	kay	hagan	obama	congress
+6900.json	half-true	false	texas	45
+10524.json	true	half-true	congress
+12599.json	true	mostly-true	200	doesnt
+917.json	false	half-true	washington
+8336.json	true	half-true	waterplace	providence	wickford
+6811.json	mostly-true	half-true	chinese	1000	american	obama	american	mitt	romney	obamas
+7084.json	true	half-true	texas	500	8000
+9323.json	true	false	dan	patrick	arizona-style	show-me-your-papers
+1460.json	true	mostly-true	texas	43rd	50
+7607.json	pants-fire	half-true	ohio
+1061.json	barely-true	half-true	monetary
+12321.json	true	mostly-true	carolina
+6473.json	true	half-true	paul	ryans	700	medicare	mitt	romney	republicans	democrats
+2877.json	false	half-true	madison-milwaukee	high-speed
+9432.json	mostly-true	false	february	john	mccain	bergdahl-taliban
+7145.json	true	mostly-true	2011	oregon
+2760.json	barely-true	half-true	robert
+6945.json	barely-true	half-true	sherrod	obamas	453
+10906.json	pants-fire	false	caitlyn	jenner	espns	arthur	ashe	noah	galloway	iraq
+3885.json	half-true	mostly-true	8000-10000
+11150.json	true	false	kissing
+3455.json	true	false	arab	libyas	moammar	gadhafi	arab	persian	1990-1991
+9927.json	mostly-true	false	obama	islamic
+11276.json	mostly-true	half-true	florida
+4337.json	half-true	mostly-true	medicare	51	americans	65	30	medicare	75
+4543.json	barely-true	false	250	16
+5091.json	false	half-true	simpson-bowles	barack	obamas
+5122.json	mostly-true	half-true	1958	16	--	--	african-american	caucasian
+11191.json	true	false	donald	trump
+1964.json	mostly-true	false	michael	mccaul	sixth-richest	congress
+624.json	true	false	mccain	abramoffs	scandal-plagued	ralph	reed
+40.json	true	mostly-true	fifty-six	73	motor-vehicle	67	66
+2852.json	mostly-true	half-true	10
+2506.json	barely-true	half-true	kurt	schrader	500	medicare	oregon
+4212.json	true	half-true
+10117.json	half-true	mostly-true	rick	scott	in-state	charlie	crist
+12051.json	mostly-true	false	tpp	trans-pacific	tpp
+3957.json	false	half-true	obama	dnc	tim	kaines	787
+10893.json	mostly-true	half-true	florida	13	--	texas
+1623.json	true	mostly-true	marco	rubios
+6428.json	half-true	false	oregon	washington	columbia
+4287.json	half-true	false	republican	jonathan	steitz
+9793.json	barely-true	false	gary	peters
+2910.json	mostly-true	half-true
+4653.json	true	half-true	1500
+11802.json	mostly-true	false	barack	obamas	hillary	clintons
+8115.json	true	false	medicaid	georgia	25000
+11296.json	false	half-true	texas	kentucky	kim	davis
+9093.json	barely-true	half-true	obamacare	25	americans
+9383.json	barely-true	false	peter	kilmartin	38	studios
+12009.json	false	half-true	donald	trumps
+11118.json	true	false
+3381.json	mostly-true	half-true
+2581.json	barely-true	false	sean	duffy	no-show	ashland
+2958.json	false	mostly-true	beaverton	oregon
+12179.json	pants-fire	false	zika
+11373.json	barely-true	half-true	hillary	clinton	200000
+2114.json	barely-true	false	georgia	saudi	arabia
+9588.json	half-true	false	kingston	clunkers
+9364.json	barely-true	half-true	110	16
+10695.json	true	mostly-true	seventy	americans
+1158.json	barely-true	half-true
+512.json	true	mostly-true	john	mccain	george	bush	95
+5815.json	barely-true	half-true	pascrell
+7909.json	true	half-true	stones	austin	25000	rollingwood
+7044.json	barely-true	false	naacps	ohio
+11284.json	half-true	false	florida	bush
+11761.json	true	half-true	marco	rubio	697
+13291.json	half-true	false	joe	heck
+6933.json	half-true	mostly-true	14
+9248.json	true	half-true	hispanic
+544.json	barely-true	false	john	mccain	iraq
+3679.json	false	half-true
+7420.json	mostly-true	half-true	2045
+2723.json	pants-fire	half-true	kasich
+5530.json	barely-true	half-true	democrat	1000
+4617.json	half-true	mostly-true	rick	perry	texas	50
+4498.json	true	half-true	two-thirds	1960s
+2994.json	barely-true	half-true	texas	republican
+1184.json	barely-true	false	53
+11169.json	mostly-true	false	donald	trump	charlie	crist
+8924.json	mostly-true	half-true	2500	20000	four-year	ceo
+7379.json	mostly-true	false	americans
+2926.json	barely-true	half-true	united
+10223.json	false	half-true	42000	keystone	xl
+4526.json	false	half-true	wisconsins	15
+10493.json	mostly-true	false	obama	kurds
+6812.json	barely-true	half-true	obama
+13214.json	mostly-true	half-true	62	36
+3933.json	false	half-true	cost-of-living
+2252.json	half-true	false	republicans
+3029.json	mostly-true	half-true
+3710.json	true	half-true	georgia	aaa
+1855.json	mostly-true	half-true	rick	perry	fast-track	coal-fired	fortunately
+13409.json	barely-true	half-true	american
+7356.json	true	mostly-true	low-income
+4568.json	barely-true	half-true	vince	polistina	70000	taxpayer-funded	--
+1849.json	half-true	mostly-true	alabama
+7790.json	pants-fire	false	boston	marathon	tamerlan	tsarnaev	kennedys
+6320.json	mostly-true	half-true	romneys
+3500.json	half-true	false	david	prosser	scott	walker
+2460.json	pants-fire	false	reid	ribble	wisconsin
+10739.json	mostly-true	false	hyde	amendmentlanguage
+13020.json	mostly-true	false	joe	heck	10	parenthood	heck
+1119.json	false	mostly-true	48	indiana
+13128.json	mostly-true	half-true	hillary	clinton	trans-pacific
+11050.json	mostly-true	half-true	bernie	sanders	brady	--
+7195.json	barely-true	false	charlie	crist	missouri	todd
+2560.json	pants-fire	half-true	matt	troutdale
+8463.json	false	mostly-true	boston
+3458.json	barely-true	half-true	perrier	evian	virginia	epa
+8352.json	pants-fire	mostly-true	obama	declares	november	muslim	appreciation
+11847.json	barely-true	half-true	catherine	cortez	masto
+8170.json	pants-fire	false	obamacare	irs	american
+10293.json	mostly-true	half-true	mike	martinez
+5314.json	true	mostly-true	ohio
+2625.json	mostly-true	half-true	rand	paul	faith-based
+12749.json	half-true	mostly-true	17	americas	50	25
+10672.json	false	mostly-true	69
+10232.json	barely-true	half-true	climate-change	united	chinese	16
+4993.json	barely-true	false	wisconsin	mickey	hitler
+794.json	half-true	false	paulson	bernanke	2007
+8946.json	true	half-true	dallasfort
+3508.json	pants-fire	false	joanne	kloppenburgs
+9107.json	true	half-true	sen	mitch	mcconnell
+809.json	true	mostly-true	98	250000	barack	obamas
+1739.json	half-true	false	american	democratic-steered
+9047.json	mostly-true	false	dan	patrick	5000	taxpayer-funded
+7685.json	half-true	false	rhode
+13490.json	false	half-true	20	20
+10962.json	true	half-true	400	170-300
+10388.json	barely-true	false	obama	muslim
+180.json	false	mostly-true	congress	11	dick	cheney	hmos
+781.json	false	half-true	68-million
+12627.json	true	false	donald	trumps
+2594.json	true	false	john	raeses	florida
+7543.json	pants-fire	false	10	alzheimers
+7073.json	barely-true	half-true	mitt	romney	marion	ind
+12195.json	true	false	in-person
+13190.json	barely-true	half-true	hillary	clinton	tim	kaine	obamacare	single-payer
+7447.json	true	half-true	non-partisan	america	voterid
+9472.json	half-true	mostly-true	oregon	24
+12368.json	barely-true	half-true	germany	crime-riddled	europe
+5788.json	true	half-true	thecongressional	officehas	estimatedevery	2025
+6665.json	half-true	false	mitt	romney	iraq
+10858.json	pants-fire	mostly-true	obamas	42	reagans	20
+3522.json	false	half-true	milwaukee	millercoors
+6469.json	false	half-true	obama	one-term
+13502.json	barely-true	false	--	barack	obama
+9834.json	mostly-true	half-true	2012	122	410	united
+7991.json	half-true	false	same-sex
+7994.json	barely-true	false	texas	80000
+6033.json	true	half-true	2000	florida	1100
+700.json	true	half-true	ii
+12214.json	mostly-true	half-true	620
+11661.json	false	half-true	trump
+8986.json	mostly-true	half-true	latino
+6922.json	barely-true	half-true	adam	hasner	250000	2000
+7416.json	barely-true	false	latinos
+2494.json	pants-fire	false	feingold
+574.json	true	false	mccain	airbus
+1262.json	false	half-true	forty-five
+9900.json	mostly-true	half-true	glenn	grothman	taco	bell
+1677.json	true	mostly-true	non-violent	50
+575.json	barely-true	half-true	john	mccain	airbus	pentagon
+13049.json	false	half-true	say71	hillarys
+11212.json	mostly-true	half-true	afghanistan	marshall	europe
+3697.json	mostly-true	half-true	14	45000
+12770.json	true	half-true
+11955.json	false	half-true	milwaukee	chris	abele	100000	suv
+3087.json	pants-fire	half-true
+3046.json	mostly-true	half-true	wisconsin
+12734.json	barely-true	half-true	hillary	clinton	americans	benghazi	americans
+1515.json	half-true	false	bachmann	medicare	medicare
+9553.json	false	half-true	barack	obama
+8557.json	true	mostly-true	united	gdp
+4194.json	mostly-true	false	michele	bachmanns
+13487.json	barely-true	half-true	san	francisco	er
+12221.json	mostly-true	false	100	ohioans	ceo	half-million-dollar	kasichs	pac
+4714.json	false	mostly-true	60
+4017.json	mostly-true	half-true	hampshire	1980	13	ronald	reagans
+9256.json	false	mostly-true	americans	african-american
+6197.json	barely-true	false	barack	obamas	500	medicare
+1187.json	mostly-true	false	37th
+1556.json	true	half-true	texans	all-time
+7970.json	false	half-true	70	medicare	medicaid	2014
+12487.json	barely-true	mostly-true	ohio	1000	3000
+6163.json	false	half-true	salem
+7819.json	true	mostly-true	18
+814.json	mostly-true	false
+8486.json	true	half-true	obamacare
+12141.json	barely-true	half-true	obama	coal-fired	americans
+3257.json	true	false	80000	texas
+3330.json	barely-true	half-true	tri-rail	high-speed
+6436.json	half-true	false	tommy	thompson
+70.json	mostly-true	false	paul	congress
+8595.json	barely-true	false	warner	obamacare
+4885.json	mostly-true	half-true	iraq	all-time
+11917.json	true	half-true	koreas	united
+6616.json	true	half-true	2008	charlie	crist	sarah	palin
+3284.json	mostly-true	half-true	--
+2290.json	barely-true	false	republicans
+10978.json	true	false	30
+8764.json	mostly-true	false
+2203.json	mostly-true	half-true	american	15	20	pork-barrel
+7118.json	half-true	mostly-true	42
+7164.json	true	half-true	ohio
+4208.json	false	half-true
+714.json	mostly-true	false	sarah	palin	abraham	lincolns	iraq
+13437.json	barely-true	half-true	kelly	ayotte	90	pell
+6401.json	mostly-true	false	connie	mack	iv
+5251.json	mostly-true	half-true	republican-leaning
+378.json	half-true	false	barack	obama	2004	george	bush
+5095.json	pants-fire	false	barack	obama
+3741.json	barely-true	half-true	two-thirds	medicaid	one-third	one-third	two-thirds
+8979.json	barely-true	half-true	tom	cottons	congress	medicare	out-of-pocket	arkansas
+3803.json	mostly-true	half-true	obama	oklahoma	2009	77	texas
+12087.json	barely-true	false
+4977.json	barely-true	half-true	american	tim	ryan	00
+4689.json	false	mostly-true	epa	130	219	2008	2010
+9227.json	barely-true	false	hasnt
+12927.json	mostly-true	half-true	anti-abortion	texas	hiv
+13000.json	barely-true	half-true	democrats	10
+11704.json	barely-true	half-true	barack	obama	united
+11654.json	mostly-true	half-true	radio-performance	iran	korea
+340.json	true	false	iraq	didnt
+6485.json	half-true	false	paul	ryan
+9231.json	false	half-true	1000	american	afghanistan	27
+10416.json	mostly-true	half-true
+12924.json	true	false	americans
+6816.json	barely-true	half-true	barack	obama	jimmy	carter
+13484.json	pants-fire	false	harambe	15000
+10869.json	true	false	united	20	post-fertilization
+3738.json	false	mostly-true	56
+6121.json	barely-true	half-true	assembly	democrats	24	thattheyre
+12392.json	barely-true	false	patrick	murphy	aboard	florida
+4522.json	barely-true	false	sen	sherrod	brent	spence
+8285.json	barely-true	half-true	tampa
+12244.json	true	false
+7667.json	barely-true	false	manchin-toomey
+101.json	barely-true	false	mccain	iraq
+2775.json	true	half-true	obama	43
+1909.json	half-true	false	ive	six-month
+10466.json	barely-true	half-true
+9229.json	half-true	mostly-true	metrorails	25	13
+8498.json	mostly-true	half-true	providence
+11887.json	true	false	john	kennedy	bay	packer	1961	nfl	championship
+11895.json	barely-true	half-true	assembly	23000	pennsylvania
+6097.json	mostly-true	false	paul	broun	congress
+1652.json	half-true	false
+1950.json	pants-fire	false	hank	johnson	marta
+8685.json	true	mostly-true	texas	texas
+9200.json	false	half-true	eighty	democrats
+2374.json	false	half-true	scott	walker	1998
+5416.json	true	mostly-true	80	20
+2557.json	false	half-true	steve	southerland	05	06	07	08	09
+5087.json	false	half-true	obamacare	95
+9844.json	false	half-true
+6119.json	barely-true	false	obamas
+12371.json	true	mostly-true	40	republicansdont	virginia
+7665.json	true	false	americans
+8576.json	true	mostly-true	20
+9096.json	mostly-true	half-true	america	15
+7698.json	true	half-true	48
+10547.json	true	mostly-true	georgias	12	2008	2013
+187.json	half-true	mostly-true	americans	100-million	fafsa	55500	full-time
+2470.json	pants-fire	false	united
+6045.json	pants-fire	false	hawaii	neil	abercrombie	late-night	kinkos	barack	obamas	obama
+339.json	true	false	illinois	barack	obama
+11004.json	true	false	texas	concealed-weapon	id	isnt
+11337.json	mostly-true	half-true	isis
+4250.json	pants-fire	half-true	sandy	pasch	forviagra
+631.json	pants-fire	false	barack	obama
+9351.json	pants-fire	half-true	florida
+5746.json	true	false
+1681.json	barely-true	mostly-true	2004	20	75	20	40
+5074.json	mostly-true	half-true	midwest
+4195.json	barely-true	mostly-true	europe
+3931.json	barely-true	mostly-true	george	lemieux	marco	rubio	barack	obama
+4883.json	true	half-true	barack	obama
+6795.json	barely-true	half-true	tarp
+9818.json	barely-true	mostly-true
+8573.json	half-true	mostly-true	pryorcut	medicare	obamacare
+13184.json	mostly-true	half-true	tim	kaine
+11559.json	mostly-true	half-true	marco	rubio
+9241.json	true	false	part-time
+8902.json	mostly-true	half-true
+12511.json	false	half-true
+7285.json	pants-fire	half-true	chris	christies	kick-start	andhes
+1005.json	pants-fire	half-true	obama	20	emmigrate	hamas	usa
+609.json	half-true	false
+9436.json	barely-true	half-true
+5671.json	false	half-true	california	american
+6699.json	pants-fire	false	sen	bob	menendez	38
+7334.json	half-true	mostly-true
+9788.json	barely-true	mostly-true	ive
+10710.json	barely-true	false	1980s	sen	edward	kennedy	soviet	reagan
+3186.json	barely-true	half-true	epa	strickland	epa
+6743.json	false	half-true
+11685.json	false	half-true	wisconsin
+9524.json	pants-fire	false	scott	walker
+5962.json	true	half-true	601
+7070.json	true	mostly-true	tennessee	--	31	--	half-cent	shelby
+1046.json	barely-true	half-true	joe	biden	american
+12849.json	true	false	donald	trump
+13270.json	barely-true	false	hillary	clintons	clinton
+6649.json	barely-true	false	democrats	georgia	republicans
+2508.json	barely-true	false	politifact	texas	edwards	flores
+11269.json	pants-fire	false	denali	kenyan
+11200.json	false	mostly-true	57
+4888.json	true	mostly-true	44	10	noncollege-educated
+3331.json	pants-fire	false
+9198.json	half-true	mostly-true	gallup	72	americans	56	democrats
+73.json	true	false	18000	america
+1328.json	false	half-true	ronald	reagan
+12169.json	mostly-true	false
+5244.json	half-true	false	mitt	romney	republican	marco	rubio
+12996.json	pants-fire	mostly-true	30
+8162.json	mostly-true	half-true
+1084.json	true	false	scalia	ginsburg	95-plus
+13231.json	barely-true	half-true	syria
+13089.json	half-true	true	tim	kaine
+1051.json	true	half-true	obama	cap-and-trade
+4161.json	mostly-true	half-true
+816.json	half-true	false
+12381.json	true	mostly-true	united
+8567.json	half-true	false	thomas	jefferson	american
+9092.json	barely-true	false	300000	florida
+10055.json	mostly-true	false	massachusetts	scott	--	--
+4513.json	true	half-true	12
+10340.json	true	half-true	texas	10	texas
+6849.json	barely-true	false	pre-existing
+10971.json	half-true	false	greg	abbott	jade	helm	15	texans	walmart
+13251.json	pants-fire	false	hillary	clinton
+7545.json	barely-true	half-true	san	francisco	single-use
+4929.json	mostly-true	false	1993	newt	gingrich
+6239.json	barely-true	half-true	250	10	10	12
+266.json	half-true	false
+6313.json	false	half-true	90000
+9550.json	barely-true	false	hobby	doesnt
+9612.json	half-true	mostly-true	charlie	crist
+13272.json	barely-true	false	hillary	clinton
+7562.json	mostly-true	half-true	300000	california
+3121.json	half-true	mostly-true	500000	texas	250000	500000	texas	49
+9578.json	false	mostly-true	90
+2356.json	mostly-true	half-true	providence
+1066.json	pants-fire	half-true	acorn	bureau	door-to-door	american
+2092.json	pants-fire	half-true	sixty	hispanics	arizona
+7442.json	barely-true	false
+9910.json	barely-true	false	dick	cheney	de-baathisized	iraqi	isis
+11083.json	true	false	hillary	clinton	donald	trumps
+2966.json	false	half-true	700
+13367.json	mostly-true	false	marco	rubio	medicare	haveweakened
+1087.json	mostly-true	half-true	174	130
+267.json	true	half-true	clinton
+4272.json	true	half-true	twenty-five	texas	mississippi	minimum-wage	united
+12542.json	half-true	false	donald	trump
+8372.json	barely-true	false
+3518.json	mostly-true	half-true	30000	13
+2357.json	false	half-true	neumann	nancy	pelosi
+12541.json	barely-true	false	republican	donald	trumps
+2854.json	pants-fire	mostly-true	40	portland
+2072.json	true	mostly-true	providence
+13334.json	half-true	mostly-true
+4820.json	half-true	mostly-true	americans	47	reps	56
+12309.json	barely-true	half-true	united	iran	irans
+1420.json	mostly-true	half-true	texas
+2491.json	true	false	pepper
+1075.json	barely-true	half-true	mitch	mcconnell	kentucky	kentuckys
+9762.json	true	half-true	tom	barrett	milwaukee
+5935.json	barely-true	mostly-true	80	marta
+2821.json	pants-fire	half-true	obama	sen	harry	reid	nancy	pelosi	12
+6370.json	true	half-true	milken	san	antonio	top-performing
+3706.json	pants-fire	mostly-true	africa
+10163.json	true	false	ii
+2796.json	false	half-true
+6083.json	barely-true	half-true	500	10
+5913.json	barely-true	false	tom	leppert	dallas
+934.json	true	half-true	republicans	cabinetis
+2162.json	barely-true	half-true	atlanta	george	turner	14	227
+2679.json	true	half-true	florida	iran	iran
+8929.json	true	half-true	wisconsin
+10040.json	half-true	false	muslim	911
+12398.json	pants-fire	false	donald	trump	--	-
+2690.json	pants-fire	half-true	taliban
+8667.json	true	false	iran	hassan	rouhani	phds	american	barack	obamas
+8941.json	true	false	ted	nugent	barack	obama	nazis	jewish
+6821.json	pants-fire	half-true	barack	obama	long-term	doesnt
+6579.json	half-true	false	obama	boeing	carolina
+11400.json	mostly-true	half-true	sen	ron	johnson	225000
+3228.json	true	false	orrin	hatch	co-sponsored	1993
+12456.json	barely-true	half-true	hillary	clinton	1980s
+4856.json	half-true	false	mitt	romney	flip-flopped
+4698.json	false	half-true	stephen	sweeney
+2585.json	barely-true	false	delaware	chris	coons	911
+6604.json	barely-true	half-true	tim	kaine
+4495.json	pants-fire	half-true	obama
+8406.json	barely-true	false	neville	chamberlain	british	nazis	europe
+10147.json	false	half-true
+10623.json	mostly-true	half-true	wisconsin	midwest
+2277.json	half-true	false
+8146.json	mostly-true	false	barack	obama	92	367	george	bush
+13056.json	true	half-true	tom	suozzi	nassau
+1103.json	pants-fire	false	john	holdren
+4444.json	mostly-true	false	mitt	romney	canada	seamus
+4105.json	pants-fire	half-true	sen	sheila	harsdorf	medicare
+8533.json	barely-true	true	travelling
+13125.json	barely-true	false	chinese
+8294.json	mostly-true	false	florida	75000	23000
+9908.json	mostly-true	false	nfl	roger	goodell	janay	ray	no-no
+4309.json	false	half-true	virginia	bob	mcdonnell
+110.json	false	half-true	iraq	saddam	hussein
+7677.json	mostly-true	half-true	sex-offender
+4780.json	true	half-true	ronald	reagan	18
+3107.json	true	half-true	2000
+7565.json	mostly-true	half-true	bush	obama
+10948.json	false	mostly-true	hillary	clinton
+4119.json	mostly-true	half-true	eighty	american
+7272.json	barely-true	false
+12236.json	half-true	mostly-true
+4016.json	false	half-true	milwaukee
+11777.json	true	half-true	50
+9051.json	pants-fire	false	barack	obama	america
+4243.json	mostly-true	true	united
+10871.json	half-true	mostly-true	austin	texas
+9507.json	pants-fire	half-true	nasa	1998
+11324.json	mostly-true	false	wisconsin	wisconsin
+8434.json	barely-true	false	herring
+3637.json	mostly-true	half-true	iraq	second-largest	saudi	arabia
+2897.json	barely-true	false	grounds	milwaukee	scott	walker
+6060.json	barely-true	half-true	11	medicare	medicaid
+603.json	false	half-true	bush
+5461.json	true	half-true	sixteen	ronald	reagans
+6684.json	pants-fire	true	united
+450.json	barely-true	false	barack	obamas	1700
+769.json	true	mostly-true	barack	obama	96
+502.json	true	false	john	mccain
+11711.json	true	mostly-true	american	russian	vladimir	putin	80
+5470.json	true	mostly-true	pasco
+8159.json	half-true	false	25000	american
+10250.json	false	half-true	virginia	sen	warner	8-10	democrat	--	kaine	mcauliffe
+10757.json	false	half-true	capandtradewould
+8320.json	mostly-true	half-true	florida
+5472.json	false	half-true	mitt	romney	massachusetts
+5505.json	true	half-true	barack	obama	didnt
+12427.json	mostly-true	true	philadelphiaused
+11464.json	barely-true	mostly-true	denmarks	united
+11778.json	barely-true	half-true	korea
+12961.json	false	mostly-true	clinton	80	20
+10269.json	barely-true	false	iroquois	tribes
+2833.json	half-true	mostly-true	153	california	texas
+13400.json	barely-true	false	chris	koster	silentas	12000
+1251.json	true	half-true	2001
+6112.json	mostly-true	half-true	lgbt	americans
+2615.json	false	half-true	lt	lee	fisher	ohio	44th
+2652.json	pants-fire	false	rick	perry	texas
+184.json	false	half-true
+11764.json	pants-fire	mostly-true	wisconsin	41st
+7876.json	pants-fire	false	76
+12950.json	barely-true	false	iran	tammy	duckworth	iran
+11185.json	barely-true	mostly-true	obamacare	50
+2412.json	false	half-true	loranne	ausley
+3215.json	pants-fire	half-true	assembly	democrats	wisconsins	bass	bay
+948.json	true	false
+11766.json	half-true	false
+592.json	barely-true	false	barack	obama	united
+5732.json	barely-true	half-true	barack	obama
+12745.json	half-true	mostly-true	latinos	obamatook
+5017.json	barely-true	false
+12331.json	barely-true	half-true	california	wagenow	florida
+10424.json	mostly-true	half-true	america
+9091.json	false	mostly-true	1964	73	lyndon	johnsons
+2547.json	true	half-true
+12571.json	mostly-true	false
+10935.json	mostly-true	half-true	tv	24000	168	georgia
+1025.json	false	half-true	acorn	85
+6386.json	barely-true	half-true	jon	runyan
+2392.json	barely-true	half-true	10	obama
+4708.json	true	half-true	americans	55
+8676.json	barely-true	false	rick	scott
+8809.json	true	mostly-true	georgia	6000	10
+4095.json	mostly-true	half-true	--
+13102.json	half-true	false	clinton	russias
+12167.json	barely-true	mostly-true
+2876.json	mostly-true	half-true	ohio	46th
+4769.json	half-true	false	wisconsin
+1760.json	barely-true	half-true	2003	texas	10	18	800
+7780.json	barely-true	false	americans	mike	mullen	tom	pickering	benghazi
+7418.json	mostly-true	half-true	11	-
+2777.json	mostly-true	half-true	georgia
+8853.json	false	half-true	barack	obama	make-work
+7758.json	mostly-true	false	hispanics
+11796.json	half-true	false	ted	cruz	bull-dozing	housei
+9521.json	half-true	mostly-true	95	us-mexico
+10208.json	barely-true	half-true	barack	obama	keystone	xl
+805.json	mostly-true	false	obama	american
+8030.json	barely-true	mostly-true	513	trayvon	11106	african-americans	african-americans
+7678.json	false	mostly-true	portland	cdcs	portland	15th
+139.json	mostly-true	half-true
+7271.json	true	mostly-true	10000	30000
+7461.json	barely-true	half-true
+5363.json	false	half-true	obamacare	america
+9942.json	true	half-true	most-viewed	weresunday	thursday	monday
+3575.json	true	half-true
+2205.json	true	half-true	106000
+7552.json	mostly-true	half-true	georgia
+7135.json	pants-fire	false	obamacare	16000	irs
+384.json	true	mostly-true	john	mccain	iraq
+13007.json	true	mostly-true	2015	75	30
+12994.json	mostly-true	false	clinton	clinton
+6141.json	pants-fire	false
+9891.json	half-true	false	saturday	lorne	michaels
+1971.json	false	half-true	att
+7008.json	mostly-true	half-true	6400	ohioans	september
+8963.json	pants-fire	false	mitch	mcconnell	harry	reid
+8151.json	false	mostly-true	15	americans	50000
+6236.json	barely-true	half-true	united	15	saudi	arabia
+6879.json	barely-true	false	sherrod	350
+11639.json	mostly-true	false
+9343.json	barely-true	false	putin	obama	poland	czech
+10516.json	mostly-true	false	austin	texas
+4750.json	false	half-true	epa	230000	21
+729.json	half-true	false	aig
+12702.json	pants-fire	false	cleveland
+8901.json	true	half-true	keystone	35
+1353.json	barely-true	half-true	afghanistan	russians
+12158.json	barely-true	half-true	florida	hivaids
+656.json	mostly-true	false	44
+10085.json	false	mostly-true	mount	rushmore
+5753.json	true	half-true	rhode	53
+125.json	mostly-true	false	mitt	romney
+6010.json	half-true	false	250
+727.json	mostly-true	false	barack	obama	fannie	mae	freddie	mac	congress
+42.json	barely-true	false	--	--	york	-
+6262.json	pants-fire	half-true	chinese	sean	duffys	republican
+9502.json	mostly-true	half-true	united
+8558.json	false	half-true	rhode
+12084.json	true	false	youtube	thomas	dimassimo	trump	ohio	american
+568.json	true	false	obama	sen	dick	lugar	republican
+7537.json	half-true	mostly-true	united	22	27	moroccan	alabama
+9708.json	pants-fire	half-true	united	pakistan	afghanistan	syria
+7524.json	half-true	mostly-true	assembly	virginias
+4537.json	mostly-true	half-true	june	2009	40	america
+8549.json	barely-true	mostly-true	onion	creeks	120000	niagara
+8062.json	half-true	mostly-true	13	50	85	100
+12461.json	true	false	sayvideo	florida
+8609.json	half-true	false
+63.json	mostly-true	half-true	16	latin	america	iraq	500
+6560.json	true	half-true
+11910.json	pants-fire	false	joseph	stalin	america
+4101.json	mostly-true	half-true	russians	50	americans
+10175.json	mostly-true	false	republicans
+4593.json	false	half-true	bryce	reeves	york	virginia
+1881.json	barely-true	true	obama
+204.json	false	mostly-true	sox	87
+10091.json	true	false
+1409.json	false	mostly-true
+2769.json	true	mostly-true	georgia	second-highest	united
+2600.json	mostly-true	false	tom	ganley	400	tom	ganleys
+2911.json	false	half-true
+12787.json	half-true	false	american	complaining-	pathetic
+2442.json	pants-fire	half-true	earl	blumenauer	gps
+3489.json	barely-true	false	wisconsin	david	prosser	30-year	cover-up
+9109.json	barely-true	half-true	obamacare
+2983.json	true	mostly-true	10
+13467.json	pants-fire	false	clinton
+9141.json	barely-true	false	hardshipand
+12648.json	barely-true	false	nevadans	uber	70000	catherine	cortez	masto	uber
+3674.json	pants-fire	false	300000	pedernales
+8240.json	false	half-true
+1892.json	true	false
+31.json	true	half-true	tommy	thompson	milwaukee
+664.json	false	half-true	mccain
+1199.json	true	false	baucus	government-chartered
+11865.json	barely-true	half-true	gene	nras	democrat	congress	nra
+87.json	true	false	obama	150000
+9312.json	mostly-true	half-true	cbo	1010
+10638.json	half-true	false	arthur
+3021.json	true	half-true
+379.json	true	false	obama	europe
+5272.json	half-true	mostly-true	1913
+683.json	true	half-true	sarah	palin	barack	obama	joe	biden
+1781.json	true	mostly-true	texas	minimum-wage
+771.json	barely-true	false	john	mccains
+10749.json	barely-true	mostly-true	29	snap
+3946.json	half-true	false	medford	279000
+7834.json	true	false
+10881.json	mostly-true	half-true	scott	110	--	--	follow-up
+4396.json	mostly-true	half-true
+6206.json	true	false	margin-of-error	july	mitt	romney
+9970.json	true	mostly-true	10	georgias	6500
+4353.json	true	half-true	sox
+1394.json	false	half-true	rick	perrys	899	bermuda
+7695.json	true	false
+4770.json	barely-true	false	barack	obama	nancy	pelosi	harry	reid	rick	perrys	in-state
+1052.json	true	false	obama	romanovs
+5249.json	false	half-true	mcdonnells
+8683.json	true	mostly-true	medicare	medicare
+12798.json	barely-true	half-true	donald	trump	mike	pence
+4838.json	half-true	barely-true	connie	mack
+7680.json	mostly-true	false
+1999.json	true	mostly-true	panhandle
+12873.json	pants-fire	mostly-true	2012	st	lucie	palm	141
+9683.json	pants-fire	false	im
+6660.json	mostly-true	false	romney	russia
+2626.json	false	half-true	christopher
+7598.json	half-true	false
+12448.json	barely-true	half-true	california
+3232.json	true	false
+487.json	barely-true	mostly-true
+8701.json	false	half-true	scott	walker	marquette
+10606.json	barely-true	false	florida	african	american	hispanic
+2371.json	barely-true	false	georgia	world-renowned
+12065.json	true	false	doesnt
+2362.json	mostly-true	false	republicans	-	mr	boehner	-
+2868.json	false	half-true	wisconsins	15
+13305.json	true	false
+8503.json	true	false	republican	2010	democrats	congress	1994	gingrich	democrats
+636.json	true	false	sen	mccain	iraq	911	iraq
+5758.json	barely-true	false	milwaukee	tom	barrett	scott
+2793.json	mostly-true	half-true	texas
+9426.json	true	half-true	brazil	300	amazon	cup
+5898.json	barely-true	false	connie	mack	california	palm	springs
+11218.json	mostly-true	half-true	40000
+12703.json	mostly-true	half-true	sudan
+1955.json	pants-fire	false	jim	langevin	didnt
+11647.json	mostly-true	half-true	americans	1980	suvs
+1648.json	mostly-true	half-true	heritage
+4425.json	barely-true	half-true	45000
+2498.json	mostly-true	half-true	texas
+4131.json	true	false	275000
+2341.json	mostly-true	false	madison	milwaukee
+11519.json	true	half-true	2016	10	2012	308
+5785.json	pants-fire	false	texas
+2284.json	pants-fire	false	lincoln
+12650.json	barely-true	false	saddam	hussein
+9480.json	barely-true	mostly-true	35
+643.json	half-true	mostly-true	mccain	george	bushs	95
+11242.json	true	mostly-true	americans	united	1968	american
+7038.json	true	half-true	ohio
+6772.json	pants-fire	half-true
+13134.json	half-true	false	donald	trump	putin	americans
+11327.json	mostly-true	half-true	three-hour
+3818.json	mostly-true	half-true	obama-nelson	post-recession
+11562.json	pants-fire	false	trans-pacific
+9622.json	true	mostly-true
+9995.json	mostly-true	half-true	41000	financial-based
+7344.json	barely-true	half-true
+5840.json	false	half-true	finland
+1576.json	true	half-true
+13127.json	mostly-true	half-true	donald	trump
+12098.json	mostly-true	half-true	donaldtrump	18
+5993.json	pants-fire	mostly-true	larry	taylor	in-state
+11025.json	false	half-true	medicaid
+2719.json	barely-true	half-true	850000	texas	public-sector	minimum-wage
+3631.json	barely-true	half-true	august
+7211.json	false	half-true	americans
+1480.json	barely-true	mostly-true	franklin	roosevelt	12	gdp	barack	obama	228
+1512.json	half-true	false	fifty-seven	rubios	100
+10517.json	half-true	mostly-true	ninety-six	8400	26
+5723.json	pants-fire	false	78	81	democrats
+7378.json	half-true	false	barack	obamas
+474.json	barely-true	false	clinton
+126.json	mostly-true	false
+10646.json	pants-fire	half-true	creflo	65	gulfstream	g650	--	god	--
+1823.json	true	half-true	halliburton	dick	cheney	34
+9731.json	barely-true	mostly-true	aboard	florida	100
+9594.json	pants-fire	false	fox	canada	violatesa	thatprevents
+12026.json	half-true	false
+5971.json	false	half-true	barack	obama	united
+6857.json	false	half-true	obama	90	solyndra	fisker	tesla	ener1
+11832.json	pants-fire	half-true
+2337.json	half-true	false	jennifer	carrolls
+10853.json	false	half-true
+9050.json	mostly-true	half-true	barack	obamas
+9427.json	mostly-true	half-true	milwaukee
+9756.json	half-true	mostly-true	mitch	mcconnell
+6532.json	mostly-true	half-true	ryan	romney
+3648.json	false	mostly-true	miami-dade
+4994.json	half-true	false	freddie	mac
+526.json	barely-true	false	sen	obama
+8673.json	true	false
+9273.json	pants-fire	half-true	jules	bailey	wal-mart	11	oregon	33
+9973.json	half-true	mostly-true	155	16
+3.json	mostly-true	false	mexico	46th	29th
+9197.json	false	half-true	democrats	republicans
+2087.json	true	false	afghanistan	americans
+1329.json	barely-true	false	stupak
+1574.json	mostly-true	half-true	39
+6745.json	mostly-true	false	barack	obamas
+4289.json	half-true	mostly-true	2000	portland	year-long	87
+4383.json	false	half-true	oregon	catch-up	1981	--
+5170.json	true	half-true	middle-class
+6976.json	true	mostly-true	17
+7838.json	pants-fire	false	dhimmitude	107	muslims
+2643.json	false	half-true
+1810.json	half-true	false
+10097.json	pants-fire	half-true	elorza	non-existence	god
+13236.json	barely-true	false	donald	trump	nato	nato
+12833.json	false	half-true	congress
+1894.json	half-true	mostly-true	ninety	arkansas	clinton
+7881.json	mostly-true	half-true
+5603.json	true	half-true	20
+5759.json	false	mostly-true	10
+6207.json	half-true	mostly-true	12
+2445.json	false	half-true	iran
+5910.json	half-true	mostly-true	pers	68000
+2596.json	half-true	mostly-true	chris	dudley	oregons
+10399.json	false	half-true
+792.json	half-true	false	democrats	congress	fannie	freddie
+12929.json	true	half-true	california	texas
+12791.json	barely-true	false	mike	pence	mike	coffman	coffman	pence	lgbt	americans
+9003.json	barely-true	mostly-true	floridas	four-year	10000
+3399.json	false	half-true	epa	countermeasure	spilt	--
+11229.json	true	mostly-true	gdp	virginia	alaska	mississippi
+2165.json	half-true	false	cobb	aclu	sam	olens	aclu
+7448.json	true	mostly-true	atlanta	1969
+12987.json	true	false	republican	2016
+5132.json	half-true	false	republicans	barack	obama	georgias	2012
+13329.json	barely-true	half-true	hillary	clinton
+4588.json	true	false	republican	ronald	reagan
+10282.json	pants-fire	false	nazis
+211.json	true	false	iraq	iraq
+7676.json	barely-true	mostly-true
+1873.json	false	half-true	hoover	truman	eisenhower	15
+12284.json	mostly-true	false	2014	80	percentofpoor
+7197.json	mostly-true	half-true	nike	nike
+12858.json	half-true	false	trans-pacific	vietnam	vietnam
+6041.json	half-true	true	22	80	2010	20	20	2010
+3414.json	false	mostly-true
+1679.json	half-true	false	bush
+275.json	barely-true	half-true	30
+13208.json	mostly-true	false
+752.json	half-true	false	john	mccain	korea	iran
+1450.json	half-true	false	400
+5653.json	pants-fire	false	barack	obama
+13046.json	barely-true	half-true	californias	55
+3103.json	true	half-true	george	allen	16400
+2894.json	pants-fire	false	wilmington	ohio	hasnt
+9112.json	false	half-true	22	20
+2945.json	mostly-true	false	sixteen
+9944.json	true	false
+6839.json	barely-true	half-true	tommy	thompson
+3673.json	barely-true	true	republicans	wisconsin	democrats
+13058.json	true	false	donald	trumpsfoundation	six-foot-tall
+3941.json	half-true	false	democrat-led	750	democrats
+10917.json	false	half-true
+13155.json	false	half-true	ron	johnson
+9301.json	pants-fire	false	florida	democrats	sharia
+5486.json	half-true	false	beto	orourke
+10943.json	true	mostly-true	ninety-seven	americans
+12728.json	false	half-true
+92.json	half-true	false	doesnt	to	1-billion
+11230.json	half-true	mostly-true	scott	obamacare	american	medicare
+2720.json	pants-fire	mostly-true	monk	elmer
+582.json	true	half-true
+12052.json	true	mostly-true
+1333.json	true	half-true	obama
+2603.json	false	half-true	texas	gas-pump	hebs	brookshires	texas
+2731.json	mostly-true	half-true	carolina	25
+3434.json	mostly-true	half-true	non-classroom	texas
+788.json	mostly-true	false	sen	obamas	bushs
+1691.json	half-true	false	rpg
+605.json	false	half-true	obama	94
+6195.json	false	mostly-true	lorain	ohio
+1350.json	true	false
+12037.json	half-true	false	barack	obama
+8710.json	mostly-true	half-true	united	100000	providence	183rd
+960.json	half-true	false	japan	im
+4391.json	barely-true	mostly-true	barack	obamas	israel
+9692.json	barely-true	false	carlos	curbelo	obamacare
+13405.json	half-true	mostly-true	american
+230.json	true	false	george	bush	fema
+207.json	true	false	2-billion	boeing
+3608.json	false	half-true	austin
+3789.json	barely-true	half-true
+7775.json	half-true	mostly-true	10	americans	30	--	30	30	--	full-time
+12160.json	barely-true	half-true	emory	trump	2016
+12870.json	barely-true	half-true	clinton	clintons	100
+3366.json	true	false
+10806.json	true	half-true	tiverton
+9681.json	pants-fire	false	aids
+1015.json	barely-true	false	democrats	congress	january	2007
+13486.json	half-true	false	alexander	hamilton
+8798.json	false	mostly-true
+10633.json	false	half-true	obama	hamas	iran
+10883.json	false	mostly-true
+13213.json	half-true	false	loretta	sanchez	20	congress
+11701.json	false	half-true	reliability	texas	ercot	obama	texas	16
+2315.json	barely-true	false	john	boozman
+11307.json	barely-true	half-true	jebs	florida
+11925.json	true	half-true	1000
+4259.json	true	false	jersey
+5061.json	pants-fire	mostly-true	newark	september	23
+4141.json	half-true	false	libyan	june	15	2011
+9462.json	mostly-true	half-true	rick	scott	75
+3987.json	mostly-true	false	vern	buchanan	60000	buchanan
+293.json	pants-fire	false	mccain	hanoi	hilton
+7728.json	mostly-true	half-true	2014	corzine-buono	2008
+2117.json	half-true	false	mexico	diane	denish	christmas
+4825.json	half-true	false	republicans
+9516.json	barely-true	false	wendy	davis	fbi
+3980.json	false	half-true	chris	christies
+386.json	mostly-true	half-true	obama
+11288.json	half-true	false	donald	trump	obamacare	single-payer
+1106.json	true	false
+446.json	barely-true	half-true	obama
+10271.json	mostly-true	false	atlanta	kasim	reed
+8419.json	false	mostly-true	obamacare
+12093.json	barely-true	false	1875
+317.json	true	half-true	1990s	22-million	8-million
+6295.json	pants-fire	mostly-true
+6610.json	mostly-true	half-true	tampa
+5597.json	true	mostly-true	jersey	30000
+9095.json	pants-fire	half-true	marco	rubio	9000	rand	paul	10000	god
+6011.json	mostly-true	half-true	barack	obama	81
+11262.json	false	mostly-true
+9388.json	barely-true	half-true
+12596.json	barely-true	mostly-true	carolinas	teachersalary
+8689.json	half-true	false	hastert
+13420.json	true	false	donald	trump
+11911.json	barely-true	false	80	lame-duck
+5450.json	half-true	false	rick	santorum	right-to-work
+2993.json	mostly-true	half-true	1981	matagorda	brazoria	galveston	well-funded
+3740.json	half-true	mostly-true	virginia	50	10
+12720.json	half-true	false	clinton	assad	assad
+2552.json	mostly-true	half-true	rand	paul	2000	medicare
+9353.json	mostly-true	false	hillary	clinton	1993
+9864.json	mostly-true	half-true	scott	walker	america
+8243.json	true	false	cpa	texas
+13500.json	mostly-true	half-true	donald	trumps
+7737.json	barely-true	false	100
+12293.json	barely-true	false	donald	trump
+1653.json	half-true	false	fourth-most
+3731.json	true	false	20000	2004
+1439.json	half-true	mostly-true	rick	perrys	texans	136
+5779.json	half-true	mostly-true	georgias	america
+10567.json	false	half-true	94	parenthood
+10111.json	false	mostly-true	charlie	crist	30	11
+11256.json	mostly-true	false	bernie	sanders	opposesthe	trans-pacific	hillary	clinton	supportsit
+7904.json	barely-true	half-true	92
+4709.json	barely-true	half-true	democrats	500	medicare	15	americans
+4116.json	false	half-true	potus	278000
+9435.json	mostly-true	half-true	afghanistan
+12805.json	mostly-true	half-true
+9801.json	true	half-true	rhode	1000
+3676.json	mostly-true	false	florida	islamic
+7742.json	false	half-true
+2394.json	half-true	false	roy	barnes	barack	obama
+817.json	pants-fire	false	barack	obama
+13051.json	barely-true	false	germans	french	iraq	saddam	hussein
+11345.json	half-true	false	donald	trump	tammy	baldwin	carried-interest
+7387.json	barely-true	half-true
+4400.json	half-true	false	jon	huntsman	medicare	980000	hampshire
+3541.json	half-true	mostly-true	united	25	african	americans	id
+12187.json	half-true	false	rick	scott
+7340.json	true	false	americans	ronald	reagan
+10355.json	true	mostly-true	42	georgians	60
+12526.json	mostly-true	false	thc
+10898.json	barely-true	false	texas	obamacare
+7136.json	barely-true	mostly-true	70	k-12
+6325.json	half-true	mostly-true	40
+12855.json	true	mostly-true	illinois	1652	2014	40	illinois	2007	2012	state-funded
+10512.json	false	mostly-true	235	31
+12336.json	mostly-true	half-true	coloradocare	mcdonalds
+11726.json	barely-true	mostly-true	25
+6774.json	mostly-true	false	nelson	sonia	sotomayor	americans
+1324.json	barely-true	false	stupak	doesnt
+6813.json	barely-true	half-true	barack	obama	obamacare	middle-income
+9737.json	false	half-true	africa
+6366.json	barely-true	half-true	medicare	500	medicare	15	medicare
+9316.json	mostly-true	half-true	congress	200
+992.json	mostly-true	half-true	venezuela	1600th	united
+699.json	half-true	false	obama
+9033.json	true	mostly-true	4000
+5950.json	true	half-true	asset	tarp
+10041.json	half-true	false	leticia	putte	american	in-state
+5528.json	true	false	pacs	republican	texas
+4189.json	false	half-true	ron	278000
+9333.json	half-true	false	koran	christians	jews
+9052.json	mostly-true	half-true	dan	patrick
+1405.json	barely-true	half-true	chile	17th
+3235.json	false	half-true
+1514.json	barely-true	half-true	mccollum
+6919.json	barely-true	mostly-true	virginia	tim	kaine	george	allen
+9774.json	false	half-true	charliecrist	duke
+5640.json	barely-true	false	barack	obama	san	angelo
+9444.json	barely-true	half-true	wisconsin	10
+4432.json	mostly-true	half-true	kasich	republican-dominated
+5749.json	half-true	false	texas	50
+8192.json	barely-true	mostly-true	miami-dade
+7886.json	mostly-true	false	republican	washington	clifford	republican
+9431.json	barely-true	false	judging	debbie	wasserman	schultz	to
+2616.json	pants-fire	false
+2122.json	half-true	mostly-true	jane	norton	colorado
+1280.json	barely-true	half-true	florida	ive	10
+2477.json	false	half-true	16	6000
+6123.json	false	half-true	barack	obama	1700	170000
+7814.json	mostly-true	half-true	jerseys	16	21
+901.json	false	mostly-true	motors	75
+6720.json	false	half-true	paul	ryan	24
+4628.json	mostly-true	half-true	1970	health-threatening	60	200
+2986.json	true	false	milwaukee	--	talgo	--	milwaukee-madison
+13350.json	half-true	false	donald	trump
+258.json	true	half-true	sen	mccain	bush
+1248.json	mostly-true	half-true	reagan
+10450.json	half-true	mostly-true	25	20	30
+8758.json	half-true	mostly-true	620000	2012
+7930.json	true	mostly-true	97
+12122.json	mostly-true	false	cuban
+6678.json	true	half-true
+9957.json	pants-fire	half-true	congress	36	84	71	creditand
+7111.json	barely-true	mostly-true	portland	single-use
+9235.json	pants-fire	false	bundy	nevada	sen	harry	reid	re-sell	chinese
+1243.json	false	half-true
+2305.json	true	false	ice-maker
+2040.json	barely-true	half-true	obama	congress
+9192.json	true	false	charlie	crist	jeb	bushs
+11375.json	true	half-true	650	texas
+8855.json	mostly-true	half-true
+1641.json	false	half-true	england	journal	obama	obamacare	30	american
+9080.json	true	false
+4233.json	mostly-true	half-true	michigan
+12952.json	barely-true	half-true	obama	iran	400
+7696.json	barely-true	half-true
+11751.json	mostly-true	half-true	united	america
+2187.json	false	mostly-true	canada	36
+2774.json	half-true	false
+6555.json	true	false	republicans	in-person	2005
+1290.json	barely-true	false	congress	nobel	prize
+9151.json	true	false
+11625.json	mostly-true	half-true	austin	dallas	1000	houston	--	1500
+7426.json	pants-fire	mostly-true	thanshotguns	ak-47s
+1462.json	mostly-true	false	rick	perry
+1777.json	true	mostly-true	ms	kagan	harvard	hyde	dc	beltway
+12982.json	half-true	false
+6015.json	false	mostly-true	republican	wisconsin
+12520.json	true	false	lower-cost	hivaids	clinton
+8944.json	mostly-true	half-true	chris	christie	sandy	belleville	nj
+10309.json	mostly-true	false	seasons	turkey
+7336.json	barely-true	half-true	50	united
+12768.json	mostly-true	half-true	doesnt
+12012.json	mostly-true	half-true	medicaid	3504
+5710.json	false	mostly-true	motors
+376.json	half-true	false	obama	hillary	clinton
+4198.json	pants-fire	half-true	ohio	josh	mandel	united
+12537.json	false	half-true	muslims	united
+3593.json	mostly-true	half-true	hackers	virginias	prescription-drug	82	36
+9779.json	pants-fire	false	ted	cruz	kochs	americas
+8990.json	mostly-true	half-true	russian
+3979.json	false	half-true
+10897.json	true	half-true	of
+4841.json	mostly-true	false	94000	oregon
+12301.json	mostly-true	false	strom	thurmond	puerto	ricos
+13512.json	pants-fire	half-true	latina	donald	trump	las	vegas	october	2015
+7329.json	half-true	false	2009	fbi	71000	77
+7827.json	barely-true	mostly-true
+11670.json	barely-true	half-true	congress	60	800
+13029.json	barely-true	false	patrick	murphy	cpa
+9937.json	mostly-true	half-true	2012	scott	--	53
+2811.json	mostly-true	half-true	65
+6333.json	false	half-true	jerseyans	9900	90000
+5124.json	pants-fire	half-true	newt	gingrich	co-sponsored	nancy	pelosi	60	chinas	one-child
+66.json	true	mostly-true	lenderand	300	400	500
+5403.json	mostly-true	false
+9437.json	half-true	false	wisconsin	john	doe
+235.json	true	half-true	ii	japanese	american	pows
+11080.json	barely-true	mostly-true	texas	27th	2002	2013
+1444.json	mostly-true	half-true	obama	13
+2484.json	half-true	false	daniel	webster
+5836.json	half-true	false	amanda	fritz	naral	pro-choice	oregon
+12.json	false	half-true	doesnt	god
+6264.json	barely-true	false	to
+13324.json	mostly-true	half-true	ford	small-car	mexico
+5230.json	true	half-true	georgia	re-convicted
+8519.json	false	half-true	kay	hagan	obama	congress
+6900.json	half-true	false	texas	45
+10524.json	true	mostly-true	congress
+12599.json	true	mostly-true	200	doesnt
+917.json	false	half-true	washington
+8336.json	true	half-true	waterplace	providence	wickford
+6811.json	mostly-true	half-true	chinese	1000	american	obama	american	mitt	romney	obamas
+7084.json	true	half-true	texas	500	8000
+9323.json	true	false	dan	patrick	arizona-style	show-me-your-papers
+1460.json	true	mostly-true	texas	43rd	50
+7607.json	pants-fire	half-true	ohio
+1061.json	barely-true	half-true	monetary
+12321.json	true	half-true	carolina
+6473.json	true	half-true	paul	ryans	700	medicare	mitt	romney	republicans	democrats
+2877.json	false	mostly-true	madison-milwaukee	high-speed
+9432.json	mostly-true	false	february	john	mccain	bergdahl-taliban
+7145.json	true	half-true	2011	oregon
+2760.json	barely-true	half-true	robert
+6945.json	barely-true	half-true	sherrod	obamas	453
+10906.json	pants-fire	false	caitlyn	jenner	espns	arthur	ashe	noah	galloway	iraq
+11150.json	true	false	kissing
+3455.json	true	false	arab	libyas	moammar	gadhafi	arab	persian	1990-1991
+9927.json	mostly-true	false	obama	islamic
+11276.json	mostly-true	false	florida
+4337.json	half-true	mostly-true	medicare	51	americans	65	30	medicare	75
+4543.json	barely-true	false	250	16
+5091.json	false	half-true	simpson-bowles	barack	obamas
+5122.json	mostly-true	true	1958	16	--	--	african-american	caucasian
+11191.json	true	false	donald	trump
+1964.json	mostly-true	false	michael	mccaul	sixth-richest	congress
+624.json	true	false	mccain	abramoffs	scandal-plagued	ralph	reed
+40.json	true	mostly-true	fifty-six	73	motor-vehicle	67	66
+2852.json	mostly-true	half-true	10
+2506.json	barely-true	half-true	kurt	schrader	500	medicare	oregon
+4212.json	true	half-true
+10117.json	half-true	mostly-true	rick	scott	in-state	charlie	crist
+12051.json	mostly-true	false	tpp	trans-pacific	tpp
+3957.json	false	half-true	obama	dnc	tim	kaines	787
+10893.json	mostly-true	half-true	florida	13	--	texas
+1623.json	true	half-true	marco	rubios
+6428.json	half-true	false	oregon	washington	columbia
+9793.json	barely-true	false	gary	peters
+2910.json	mostly-true	half-true
+4653.json	true	half-true	1500
+12279.json	mostly-true	half-true	bernie	hillarys	02	02
+6982.json	half-true	false	america	russia
+11802.json	mostly-true	false	barack	obamas	hillary	clintons
+8115.json	true	false	medicaid	georgia	25000
+9093.json	barely-true	half-true	obamacare	25	americans
+9383.json	barely-true	false	peter	kilmartin	38	studios
+12009.json	false	half-true	donald	trumps
+7223.json	mostly-true	true	eleven
+11118.json	true	false
+3381.json	mostly-true	half-true
+2581.json	barely-true	false	sean	duffy	no-show	ashland
+2958.json	false	mostly-true	beaverton	oregon
+12179.json	pants-fire	false	zika
+11373.json	barely-true	mostly-true	hillary	clinton	200000
+2114.json	barely-true	false	georgia	saudi	arabia
+9588.json	half-true	false	kingston	clunkers
+9364.json	barely-true	half-true	110	16
+10695.json	true	mostly-true	seventy	americans
+1158.json	barely-true	half-true
+512.json	true	mostly-true	john	mccain	george	bush	95
+7909.json	true	false	stones	austin	25000	rollingwood
+7044.json	barely-true	false	naacps	ohio
+11761.json	true	half-true	marco	rubio	697
+13291.json	half-true	false	joe	heck
+6933.json	half-true	mostly-true	14
+9916.json	mostly-true	half-true	98	oxycodone-dispensing	florida
+9248.json	true	half-true	hispanic
+544.json	barely-true	false	john	mccain	iraq
+3679.json	false	half-true
+11825.json	half-true	false	texas	18
+7420.json	mostly-true	half-true	2045
+2723.json	pants-fire	half-true	kasich
+5530.json	barely-true	mostly-true	democrat	1000
+4498.json	true	half-true	two-thirds	1960s
+2994.json	barely-true	half-true	texas	republican
+1184.json	barely-true	false	53
+11169.json	mostly-true	false	donald	trump	charlie	crist
+8924.json	mostly-true	half-true	2500	20000	four-year	ceo
+7379.json	mostly-true	false	americans
+2926.json	barely-true	half-true	united
+10223.json	false	half-true	42000	keystone	xl
+4526.json	false	half-true	wisconsins	15
+10493.json	mostly-true	false	obama	kurds
+6812.json	barely-true	half-true	obama
+13214.json	mostly-true	half-true	62	36
+3933.json	false	half-true	cost-of-living
+2252.json	half-true	false	republicans
+3029.json	mostly-true	false
+3710.json	true	half-true	georgia	aaa
+1855.json	mostly-true	half-true	rick	perry	fast-track	coal-fired	fortunately
+7771.json	half-true	true	providence	50000
+13409.json	barely-true	half-true	american
+7356.json	true	half-true	low-income
+4568.json	barely-true	half-true	vince	polistina	70000	taxpayer-funded	--
+7790.json	pants-fire	false	boston	marathon	tamerlan	tsarnaev	kennedys
+6320.json	mostly-true	half-true	romneys
+3500.json	half-true	false	david	prosser	scott	walker
+2460.json	pants-fire	false	reid	ribble	wisconsin
+1948.json	false	half-true	houstons	18th	anglos	african	americans
+10739.json	mostly-true	false	hyde	amendmentlanguage
+13020.json	mostly-true	false	joe	heck	10	parenthood	heck
+1119.json	false	half-true	48	indiana
+13128.json	mostly-true	half-true	hillary	clinton	trans-pacific
+11050.json	mostly-true	false	bernie	sanders	brady	--
+7195.json	barely-true	false	charlie	crist	missouri	todd
+2560.json	pants-fire	half-true	matt	troutdale
+8463.json	false	mostly-true	boston
+3458.json	barely-true	half-true	perrier	evian	virginia	epa
+8352.json	pants-fire	mostly-true	obama	declares	november	muslim	appreciation
+11847.json	barely-true	half-true	catherine	cortez	masto
+8170.json	pants-fire	false	obamacare	irs	american
+10293.json	mostly-true	half-true	mike	martinez
+5314.json	true	mostly-true	ohio
+2625.json	mostly-true	false	rand	paul	faith-based
+12749.json	half-true	mostly-true	17	americas	50	25
+10672.json	false	mostly-true	69
+10232.json	barely-true	half-true	climate-change	united	chinese	16
+4993.json	barely-true	false	wisconsin	mickey	hitler
+794.json	half-true	false	paulson	bernanke	2007
+8946.json	true	half-true	dallasfort
+3508.json	pants-fire	false	joanne	kloppenburgs
+9107.json	true	false	sen	mitch	mcconnell
+809.json	true	mostly-true	98	250000	barack	obamas
+1739.json	half-true	false	american	democratic-steered
+9047.json	mostly-true	false	dan	patrick	5000	taxpayer-funded
+7685.json	half-true	false	rhode
+13490.json	false	half-true	20	20
+10962.json	true	mostly-true	400	170-300
+10388.json	barely-true	false	obama	muslim
+180.json	false	half-true	congress	11	dick	cheney	hmos
+781.json	false	half-true	68-million
+12627.json	true	half-true	donald	trumps
+2594.json	true	false	john	raeses	florida
+7543.json	pants-fire	half-true	10	alzheimers
+7073.json	barely-true	half-true	mitt	romney	marion	ind
+12195.json	true	false	in-person
+13190.json	barely-true	half-true	hillary	clinton	tim	kaine	obamacare	single-payer
+7447.json	true	false	non-partisan	america	voterid
+9472.json	half-true	mostly-true	oregon	24
+12368.json	barely-true	half-true	germany	crime-riddled	europe
+5788.json	true	half-true	thecongressional	officehas	estimatedevery	2025
+6665.json	half-true	false	mitt	romney	iraq
+10858.json	pants-fire	half-true	obamas	42	reagans	20
+3522.json	false	half-true	milwaukee	millercoors
+6469.json	false	half-true	obama	one-term
+13502.json	barely-true	false	--	barack	obama
+9834.json	mostly-true	half-true	2012	122	410	united
+7991.json	half-true	false	same-sex
+7994.json	barely-true	false	texas	80000
+6033.json	true	half-true	2000	florida	1100
+700.json	true	half-true	ii
+12214.json	mostly-true	half-true	620
+11661.json	false	half-true	trump
+6922.json	barely-true	half-true	adam	hasner	250000	2000
+7416.json	barely-true	false	latinos
+9101.json	half-true	mostly-true
+2494.json	pants-fire	false	feingold
+574.json	true	false	mccain	airbus
+1262.json	false	half-true	forty-five
+9900.json	mostly-true	half-true	glenn	grothman	taco	bell
+1677.json	true	mostly-true	non-violent	50
+575.json	barely-true	half-true	john	mccain	airbus	pentagon
+13049.json	false	half-true	say71	hillarys
+12168.json	half-true	mostly-true	full-strength	isgood
+11212.json	mostly-true	half-true	afghanistan	marshall	europe
+3697.json	mostly-true	half-true	14	45000
+12770.json	true	mostly-true
+11955.json	false	half-true	milwaukee	chris	abele	100000	suv
+3087.json	pants-fire	half-true
+3046.json	mostly-true	half-true	wisconsin
+12734.json	barely-true	half-true	hillary	clinton	americans	benghazi	americans
+1515.json	half-true	false	bachmann	medicare	medicare
+9553.json	false	half-true	barack	obama
+8557.json	true	mostly-true	united	gdp
+4194.json	mostly-true	false	michele	bachmanns
+13487.json	barely-true	half-true	san	francisco	er
+12221.json	mostly-true	half-true	100	ohioans	ceo	half-million-dollar	kasichs	pac
+4714.json	false	mostly-true	60
+4017.json	mostly-true	half-true	hampshire	1980	13	ronald	reagans
+9256.json	false	half-true	americans	african-american
+6197.json	barely-true	half-true	barack	obamas	500	medicare
+1187.json	mostly-true	false	37th
+1556.json	true	half-true	texans	all-time
+7970.json	false	half-true	70	medicare	medicaid	2014
+12487.json	barely-true	mostly-true	ohio	1000	3000
+6163.json	false	half-true	salem
+7819.json	true	mostly-true	18
+814.json	mostly-true	half-true
+8486.json	true	half-true	obamacare
+12141.json	barely-true	half-true	obama	coal-fired	americans
+3257.json	true	false	80000	texas
+3330.json	barely-true	half-true	tri-rail	high-speed
+6436.json	half-true	false	tommy	thompson
+70.json	mostly-true	false	paul	congress
+8595.json	barely-true	false	warner	obamacare
+4885.json	mostly-true	half-true	iraq	all-time
+11917.json	true	half-true	koreas	united
+6616.json	true	half-true	2008	charlie	crist	sarah	palin
+3284.json	mostly-true	half-true	--
+2290.json	barely-true	half-true	republicans
+10978.json	true	false	30
+8764.json	mostly-true	false
+2203.json	mostly-true	half-true	american	15	20	pork-barrel
+7118.json	half-true	mostly-true	42
+7164.json	true	half-true	ohio
+4208.json	false	half-true
+714.json	mostly-true	false	sarah	palin	abraham	lincolns	iraq
+13437.json	barely-true	half-true	kelly	ayotte	90	pell
+6401.json	mostly-true	false	connie	mack	iv
+5251.json	mostly-true	half-true	republican-leaning
+378.json	half-true	false	barack	obama	2004	george	bush
+5095.json	pants-fire	false	barack	obama
+3741.json	barely-true	half-true	two-thirds	medicaid	one-third	one-third	two-thirds
+8979.json	barely-true	half-true	tom	cottons	congress	medicare	out-of-pocket	arkansas
+12087.json	barely-true	false
+4977.json	barely-true	half-true	american	tim	ryan	00
+4689.json	false	half-true	epa	130	219	2008	2010
+9227.json	barely-true	false	hasnt
+12927.json	mostly-true	false	anti-abortion	texas	hiv
+13000.json	barely-true	half-true	democrats	10
+11704.json	barely-true	half-true	barack	obama	united
+11654.json	mostly-true	half-true	radio-performance	iran	korea
+340.json	true	false	iraq	didnt
+6485.json	half-true	false	paul	ryan
+9231.json	false	half-true	1000	american	afghanistan	27
+10416.json	mostly-true	half-true
+12924.json	true	false	americans
+6816.json	barely-true	half-true	barack	obama	jimmy	carter
+13172.json	half-true	mostly-true	missouri	medicaid	missouris
+13484.json	pants-fire	false	harambe	15000
+9823.json	false	mostly-true	thom	tillis
+3738.json	false	mostly-true	56
+8552.json	half-true	false	obamacare	republican	90s
+6121.json	barely-true	half-true	assembly	democrats	24	thattheyre
+12392.json	barely-true	false	patrick	murphy	aboard	florida
+4522.json	barely-true	false	sen	sherrod	brent	spence
+8285.json	barely-true	half-true	tampa
+12244.json	true	false
+7667.json	barely-true	false	manchin-toomey
+101.json	barely-true	half-true	mccain	iraq
+2775.json	true	half-true	obama	43
+10466.json	barely-true	half-true
+8498.json	mostly-true	half-true	providence
+11887.json	true	false	john	kennedy	bay	packer	1961	nfl	championship
+11895.json	barely-true	half-true	assembly	23000	pennsylvania
+6097.json	mostly-true	false	paul	broun	congress
+1652.json	half-true	false
+1950.json	pants-fire	false	hank	johnson	marta
+8685.json	true	mostly-true	texas	texas
+9200.json	false	half-true	eighty	democrats
+2374.json	false	half-true	scott	walker	1998
+5416.json	true	mostly-true	80	20
+2557.json	false	half-true	steve	southerland	05	06	07	08	09
+5087.json	false	half-true	obamacare	95
+9844.json	false	mostly-true
+6119.json	barely-true	false	obamas
+7665.json	true	half-true	americans
+9096.json	mostly-true	half-true	america	15
+7698.json	true	half-true	48
+10547.json	true	mostly-true	georgias	12	2008	2013
+2470.json	pants-fire	false	united
+6045.json	pants-fire	false	hawaii	neil	abercrombie	late-night	kinkos	barack	obamas	obama
+339.json	true	false	illinois	barack	obama
+11004.json	true	mostly-true	texas	concealed-weapon	id	isnt
+11337.json	mostly-true	half-true	isis
+4250.json	pants-fire	half-true	sandy	pasch	forviagra
+631.json	pants-fire	false	barack	obama
+9351.json	pants-fire	half-true	florida
+5746.json	true	false
+1681.json	barely-true	mostly-true	2004	20	75	20	40
+5074.json	mostly-true	half-true	midwest
+4195.json	barely-true	mostly-true	europe
+3931.json	barely-true	mostly-true	george	lemieux	marco	rubio	barack	obama
+4883.json	true	half-true	barack	obama
+6795.json	barely-true	half-true	tarp
+9818.json	barely-true	mostly-true
+13184.json	mostly-true	half-true	tim	kaine
+11559.json	mostly-true	half-true	marco	rubio
+9241.json	true	false	part-time
+8902.json	mostly-true	half-true
+7285.json	pants-fire	half-true	chris	christies	kick-start	andhes
+1005.json	pants-fire	half-true	obama	20	emmigrate	hamas	usa
+9436.json	barely-true	half-true
+5671.json	false	half-true	california	american
+6699.json	pants-fire	false	sen	bob	menendez	38
+7334.json	half-true	mostly-true
+9788.json	barely-true	mostly-true	ive
+10710.json	barely-true	false	1980s	sen	edward	kennedy	soviet	reagan
+3186.json	barely-true	half-true	epa	strickland	epa
+6743.json	false	half-true
